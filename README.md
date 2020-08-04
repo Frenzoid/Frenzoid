@@ -37,7 +37,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Frenzoid&show_icons=true&hide_border=false&theme=radical" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Frenzoid&show_icons=true&hide_border=true&theme=radical" />
 
 [uni]: https://www.ua.es/
 [website]: https://frenzoid.github.io/Frenzoid/
