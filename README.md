@@ -18,13 +18,14 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Sass" width="26px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://angular.de/assets/img/schulungen/shared/logo-typescript.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="Docker" width="26px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text.png" />
+<img align="left" alt="MySQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYmGT1q64MqphW8CysTJCM9w8C9tBy5LgPxQ&usqp=CAU" />
 <img align="left" alt="MongoDB" width="26px" src="https://secure.meetupstatic.com/photos/event/2/5/3/2/600_154269522.jpeg" />
 <img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Assembly & 8086" width="26px" src="https://lh3.googleusercontent.com/orH9MATBX0Crk67nFiJjeeSXIalqdWM2RnnBnYd9d_8sDA_u5GN3uQtIAhxRwUpWDQ4" />
