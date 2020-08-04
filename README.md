@@ -61,11 +61,6 @@
         <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&hide_border=true&theme=algolia" />
     </a>
 </div>
-<p></p>
-<script>
-    var repo = getElementByName("img").getAttribute("src");
-    getElementByName("p").innerHTML = repo;
-</script>
 
 [uni]: https://www.ua.es/
 [website]: https://frenzoid.github.io/Frenzoid/
