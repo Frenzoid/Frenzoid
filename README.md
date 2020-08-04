@@ -37,7 +37,20 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Frenzoid&show_icons=true&hide_border=true&theme=radical" />
+<div>
+    <img width="32%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frenzoid&theme=radical" />
+    <img width="62%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Frenzoid&show_icons=true&hide_border=true&theme=radical" />
+</div>
+
+
+### Aaand if you are here searching for the Sourcemod Plugins..:
+<div>
+<img width="49%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&theme=radical&hide_border=true" />
+<img width="49%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassHealthRegen&theme=radical&hide_border=true" />
+<img width="49%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxHealth&theme=radical&hide_border=true" />
+<img width="49%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_FF2DamageTracker&theme=radical&hide_border=true" />
+<img width="49%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&theme=radical&hide_border=true" />
+</div>
 
 [uni]: https://www.ua.es/
 [website]: https://frenzoid.github.io/Frenzoid/
