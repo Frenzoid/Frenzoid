@@ -3,7 +3,7 @@
 ## I'm a Uni student, sourcemodder and kind of a nightwalker!
 - 🔭 I’m currently studying at [UA][uni]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 Here's [my portfolio][webpage] if you want to take a full look
+- 👯 Here's [my portfolio][website] if you want to take a full look
 - ⚡ Fun fact: I love superheroes movies, and videogames.
 
 ### Get in contact:
