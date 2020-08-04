@@ -31,7 +31,8 @@
 <img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Assembly & 8086" width="26px" src="https://lh3.googleusercontent.com/orH9MATBX0Crk67nFiJjeeSXIalqdWM2RnnBnYd9d_8sDA_u5GN3uQtIAhxRwUpWDQ4" />
 <img align="left" alt="Sourcepawn" width="26px" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d1/d12991a4f919417c846817232165db091c4a13c9_full.jpg" />
-<img align="left" alt="Metamod Source" width="26px" src="https://lh3.googleusercontent.com/proxy/OSMuTLAdHh1bjujd29CyLo9-qHfqBdTMgtCkdIc5-qNUWuo63Et6VlDJlhXaYXtzcfPbrdN1PWdJqaYMTo7SF-djM0DOZPiHrQ" />
+<img align="left" alt="Metamod Source" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="Metamod Source" width="26px" src="https://e7.pngegg.com/pngimages/396/878/png-clipart-java-development-kit-programmer-java-runtime-environment-programming-language-java-orange-logo.png" />
 
 <br />
 <br />
