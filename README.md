@@ -7,14 +7,14 @@
 - ⚡ Fun fact: I love superheroes movies, and videogames.
 
 ### Get in contact:
-
-[<img align="left" alt="Frenzoid" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Frenzoid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Frenzoid | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" />][steam]
 [<img align="left" alt="Frenzoid mail | LinkedIn" width="22px" src="https://pbs.twimg.com/profile_images/1104306991898509313/cPo7kiOL.png"/>][email]
+
 <br />
 
-### Languages, Tools and stats:
+### Languages, Tools and Stats:
+<i>NOTE: "Top Languages" does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.</i>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
