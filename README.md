@@ -38,29 +38,34 @@
 <br />
 
 <div>
-    <img width="32%" alt="Frenzoid's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frenzoid&hide_border=true&theme=radical" />
-    <img width="62%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Frenzoid&show_icons=true&hide_border=true&theme=radical" />
+    <img width="32%" alt="Frenzoid's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frenzoid&hide_border=true" />
+    <img width="62%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Frenzoid&show_icons=true&hide_border=true" />
 </div>
 
 
 ### Aaand if you are here searching for the Sourcemod Plugins..:
 <div>
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
-        <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&theme=radical&hide_border=true" />
+        <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=algolia" />
     </a>
     <a href="https://github.com/Frenzoid/TF2_SetClassHealthRegen">
-        <img width="49%" alt="TF2_SetClassHealthRegen" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassHealthRegen&theme=radical&hide_border=true" />
+        <img width="49%" alt="TF2_SetClassHealthRegen" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassHealthRegen&hide_border=true&theme=algolia" />
     </a>
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxHealth">
-        <img width="49%" alt="TF2_SetClassMaxHealths" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxHealth&theme=radical&hide_border=true" />
+        <img width="49%" alt="TF2_SetClassMaxHealths" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxHealth&hide_border=true&theme=algolia" />
     </a>
     <a href="https://github.com/Frenzoid/TF2_FF2DamageTracker">
-        <img width="49%" alt="TF2_FF2DamageTrackers" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_FF2DamageTracker&theme=radical&hide_border=true" />
+        <img width="49%" alt="TF2_FF2DamageTrackers" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_FF2DamageTracker&hide_border=true&theme=algolia" />
     </a>
     <a href="https://github.com/Frenzoid/SM_SourceRoundTimer">
-        <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&theme=radical&hide_border=true" />
+        <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&hide_border=true&theme=algolia" />
     </a>
 </div>
+<p></p>
+<script>
+    var repo = getElementByName("img").getAttribute("src");
+    getElementByName("p").innerHTML = repo;
+</script>
 
 [uni]: https://www.ua.es/
 [website]: https://frenzoid.github.io/Frenzoid/
