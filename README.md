@@ -38,7 +38,7 @@
 <br />
 
 <div>
-    <img width="32%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frenzoid&theme=radical" />
+    <img width="32%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frenzoid&hide_border=true&theme=radical" />
     <img width="62%" alt="Frenzoid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Frenzoid&show_icons=true&hide_border=true&theme=radical" />
 </div>
 
