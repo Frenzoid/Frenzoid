@@ -2,8 +2,8 @@
 
 ## I'm a Uni student, sourcemodder and kind of a nightwalker!
 - 🔭 I’m currently studying at [UA][uni]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 Here's [my portfolio][website] if you want to take a full look
+- 🌱 Currently learning _everything_ 🤣.
+- 👯 Here's [my portfolio][website] if you want to take a full look.
 - ⚡ Fun fact: I love superheroes movies, and videogames.
 
 ### Get in contact:
@@ -43,7 +43,7 @@
 </div>
 
 
-### Aaand if you are here searching for the Sourcemod Plugins..:
+### Aaand, if you are here searching for the Sourcemod Plugins...
 <div>
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
         <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=algolia" />
