@@ -26,7 +26,7 @@
 <img align="left" title="SQL" alt="SQL" width="26px" src="https://blog.composable.ai/wp-content/uploads/2017/02/sql-logo.png" />
 <img align="left" title="MySQL" alt="MySQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYmGT1q64MqphW8CysTJCM9w8C9tBy5LgPxQ&usqp=CAU" />
 <img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://secure.meetupstatic.com/photos/event/2/5/3/2/600_154269522.jpeg" />
-<img align="left" title="BASH" alt="BASH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" title="SHELL, BASH, KSH, KRONSHELL" alt="BASH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" title="Assembly & 8086" alt="Assembly & 8086" width="26px" src="https://lh3.googleusercontent.com/orH9MATBX0Crk67nFiJjeeSXIalqdWM2RnnBnYd9d_8sDA_u5GN3uQtIAhxRwUpWDQ4" />
 <img align="left" title="SourcePawn" alt="Sourcepawn" width="26px" src="https://images-na.ssl-images-amazon.com/images/I/51YP4Hvny4L.png" />
 <img align="left" title="C, C++ & C#" alt="C, C++ & C#" width="26px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />
