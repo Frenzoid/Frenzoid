@@ -1,10 +1,10 @@
 ### Hi there, I'm Frenzoid 
 
 ## I'm a Uni student, sourcemodder and kind of a nightwalker!
-- 🔭 I’m currently studying at [UA][uni]!
-- 🌱 Currently learning _everything_ 🤣.
-- 👯 Here's [my portfolio][website] if you want to take a full look.
-- ⚡ Fun fact: I love superheroes movies, and videogames.
+- 📜 I’m currently studying at [UA][uni]!
+- 💻 Currently learning _everything_ 🤣.
+- 📖 Here's [my portfolio][website] if you want to take a full look.
+- 🎉 Fun fact: I love superheroes movies, and videogames.
 
 ### Get in contact:
 [<img align="left" alt="Frenzoid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
