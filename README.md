@@ -66,4 +66,4 @@
 [website]: https://frenzoid.github.io/Frenzoid/
 [steam]: https://steamcommunity.com/id/MrFren
 [linkedin]: https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158/
-[email]: mail:frenzoid@protonmail.com
+[email]: mailto:frenzoid@protonmail.com
