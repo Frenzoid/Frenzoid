@@ -61,7 +61,7 @@
         <img width="49%" alt="TF2_InvisibleWeaponsFix" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_InvisibleWeaponsFix&hide_border=true&theme=radical  " />
     </a>
     <a href="https://github.com/Frenzoid/SM_SourceRoundTimer">
-        <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&hide_border=true&theme=blue-green " />
+        <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&hide_border=true&theme=algolia" />
     </a>
 </div>
 
