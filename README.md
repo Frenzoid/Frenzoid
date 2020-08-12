@@ -1,12 +1,15 @@
 ### Hi there, I'm Frenzoid 👋
-## About me
-I'm a Uni student, sourcemodder and a nightwalker!
+## About me.
+Im a Uni student coursing the degree in Computer Engineering, i love to spend my freetime playing videogames, and learning / testing different technologies.
+
+This is my github repo, and you will find personal projects and university projects.
+
 - 📜 I’m currently studying at [UA][uni]!
 - 💻 Currently learning everyday a little bit of _everything_.
 - 📖 Here's [my portfolio][website], if you want to know more about me :D .
 
 
-## Summary of Technologies i know:
+## Summary of Technologies i know.
 ### Programming & Scripting languages.
 <img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
