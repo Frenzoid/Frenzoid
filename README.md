@@ -74,8 +74,6 @@ I'm a Uni student, sourcemodder and a nightwalker!
 - [This is my Steam Account.][steam]
 - Or, if you like a more personal approach, here is my email: [frenzoid@protonmail.com][email]
 
-<br />
-
 ## 
 
 ### Aaaand, if you are here, looking for the SM Plugins, here's a shortcut:
