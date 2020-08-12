@@ -1,6 +1,6 @@
 ### Hi there, I'm Frenzoid 👋
 ## About me.
-Im a Uni student coursing the degree in Computer Engineering, i love to spend my freetime playing videogames, and learning / testing different technologies.
+Im a Uni student coursing a degree in Computer Engineering, i love to spend my freetime playing videogames, and learning / testing different technologies.
 
 This is my github repo, and you will find personal projects and university projects.
 
