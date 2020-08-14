@@ -65,7 +65,7 @@ This is my github repo, and you will find personal projects and university proje
 
 ### Miscs:
 <img align="left" title="Docker" alt="Docker" width="26px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
-<img align="left" title="AWS" alt="AWS" width="26px" src="https://lh3.googleusercontent.com/proxy/r_n1sqPrznL8T8Eg7y71VaASas28Iwin9RYyEfWKlAliJH40Y6_P7qiqLQAZepKwMcwmtgXM34Mx-k5WfENsa-cwm44" />
+<img align="left" title="AWS" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" />
 <img align="left" title="Ansible" alt="Ansible" width="28px" src="https://secure.meetupstatic.com/photos/event/d/7/2/a/highres_465655082.jpeg" />
 <img align="left" title="SourceMod, MetaMod & AMX Mod X" alt="SourceMod" width="26px" src="https://i.imgur.com/Zy5EEHZ.png" />
 
