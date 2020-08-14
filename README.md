@@ -10,7 +10,7 @@ This is my github repo, and you will find personal projects and university proje
 
 
 ## Summary of Technologies i know.
-### Programming & Scripting languages.
+### Programming & Scripting languages:
 <img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" title="Python" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />
@@ -29,7 +29,7 @@ This is my github repo, and you will find personal projects and university proje
 
 <br />
 
-### Frameworks and Environments.
+### Frameworks and Environments:
 <img align="left" title="Angular" alt="Angular" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" />
 <img align="left" title="Ionic" alt="Ionic" width="26px" src="https://hackr.io/tutorials/learn-ionic/logo/logo-ionic?ver=1587978084" />
 <img align="left" title="ElectronJS" alt="ElectronJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" />
@@ -53,7 +53,7 @@ This is my github repo, and you will find personal projects and university proje
 
 <br />
 
-### Operating Systems.
+### Operating Systems:
 <img align="left" title="Windows Server 2012" alt="Windows Server 2012" width="26px" src="https://img2.freepng.es/20180820/hwh/kisspng-windows-server-2-12-computer-servers-microsoft-win-kvm-5b7b67aacc4e33.0162970515348141228369.jpg" />
 <img align="left" title="Ubuntu" alt="Ubuntu" width="26px" src="https://image.flaticon.com/icons/png/512/888/888879.png" />
 <img align="left" title="Debian" alt="Debian" width="26px" src="https://cdn.pixabay.com/photo/2016/03/24/19/02/debian-1277387_1280.png" />
@@ -63,7 +63,7 @@ This is my github repo, and you will find personal projects and university proje
 
 <br />
 
-### Miscs (Platforms, Clouds, Tools, etc).
+### Miscs (Platforms, Clouds, Tools, etc):
 <img align="left" title="Docker" alt="Docker" width="26px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
 <img align="left" title="Google Cloud" alt="Google Cloud" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-189812.png" />
 
