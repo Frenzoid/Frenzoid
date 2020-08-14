@@ -65,12 +65,19 @@ This is my github repo, and you will find personal projects and university proje
 
 ### Miscs:
 <img align="left" title="Docker" alt="Docker" width="26px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
-<img align="left" title="AWS" alt="AWS" width="26px" src="https://lh3.googleusercontent.com/proxy/r_n1sqPrznL8T8Eg7y71VaASas28Iwin9RYyEfWKlAliJH40Y6_P7qiqLQAZepKwMcwmtgXM34Mx-k5WfENsa-cwm44" />
+<img align="left" title="Google Cloud" alt="Google Cloud" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-189812.png" />
 <img align="left" title="Ansible" alt="Ansible" width="28px" src="https://secure.meetupstatic.com/photos/event/d/7/2/a/highres_465655082.jpeg" />
 <img align="left" title="SourceMod, MetaMod & AMX Mod X" alt="SourceMod" width="26px" src="https://i.imgur.com/Zy5EEHZ.png" />
 
 <br />
 
+
+### Currently Learning:
+<img align="left" title="Kubernetes" alt="Kubernetes" width="28px" src="https://kubernetes.io/images/favicon.png" />
+<img align="left" title="AWS" alt="AWS" width="28px" src="https://www.drupal.org/files/project-images/aws-logo.png" />
+<img align="left" title="Azure" alt="Azure" width="28px" src="https://www.ingrammicrocloud.com/sites/default/files/landingpagegenerator/1563973547_873107.png" />
+
+<br />
 
 ## Lets get in touch!
 - [Here is my LinkedIn.][linkedin]
@@ -79,6 +86,27 @@ This is my github repo, and you will find personal projects and university proje
 
 ## 
 
+## Aaand, if you are here searching for the Sourcemod Plugins...
+<div>
+    <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
+        <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=radical  " />
+    </a>
+    <a href="https://github.com/Frenzoid/TF2_SetClassHealthRegen">
+        <img width="49%" alt="TF2_SetClassHealthRegen" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassHealthRegen&hide_border=true&theme=radical  " />
+    </a>
+    <a href="https://github.com/Frenzoid/TF2_SetClassMaxHealth">
+        <img width="49%" alt="TF2_SetClassMaxHealths" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxHealth&hide_border=true&theme=radical  " />
+    </a>
+    <a href="https://github.com/Frenzoid/TF2_FF2DamageTracker">
+        <img width="49%" alt="TF2_FF2DamageTrackers" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_FF2DamageTracker&hide_border=true&theme=radical  " />
+    </a>
+    <a href="https://github.com/Frenzoid/TF2_InvisibleWeaponsFix">
+        <img width="49%" alt="TF2_InvisibleWeaponsFix" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_InvisibleWeaponsFix&hide_border=true&theme=radical  " />
+    </a>
+    <a href="https://github.com/Frenzoid/SM_SourceRoundTimer">
+        <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&hide_border=true&theme=algolia" />
+    </a>
+</div>
 
 [uni]: https://www.ua.es/
 [website]: https://frenzoid.github.io/Frenzoid/
