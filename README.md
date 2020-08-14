@@ -63,7 +63,7 @@ This is my github repo, and you will find personal projects and university proje
 
 <br />
 
-### Miscs (Platforms, Clouds, Tools, etc..).
+### Miscs (Platforms, Clouds, Tools, etc).
 <img align="left" title="Docker" alt="Docker" width="26px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
 <img align="left" title="Google Cloud" alt="Google Cloud" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-189812.png" />
 
