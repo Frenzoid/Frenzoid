@@ -53,7 +53,7 @@ This is my github repo, and you will find personal projects and university proje
 
 <br />
 
-### Operating Systems:
+### Operating Systems.
 <img align="left" title="Windows Server 2012" alt="Windows Server 2012" width="26px" src="https://img2.freepng.es/20180820/hwh/kisspng-windows-server-2-12-computer-servers-microsoft-win-kvm-5b7b67aacc4e33.0162970515348141228369.jpg" />
 <img align="left" title="Ubuntu" alt="Ubuntu" width="26px" src="https://image.flaticon.com/icons/png/512/888/888879.png" />
 <img align="left" title="Debian" alt="Debian" width="26px" src="https://cdn.pixabay.com/photo/2016/03/24/19/02/debian-1277387_1280.png" />
@@ -63,16 +63,16 @@ This is my github repo, and you will find personal projects and university proje
 
 <br />
 
-### Miscs:
+### Miscs (Platforms, Clouds, etc..).
 <img align="left" title="Docker" alt="Docker" width="26px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
 <img align="left" title="Google Cloud" alt="Google Cloud" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-189812.png" />
+
 <img align="left" title="Ansible" alt="Ansible" width="28px" src="https://secure.meetupstatic.com/photos/event/d/7/2/a/highres_465655082.jpeg" />
 <img align="left" title="SourceMod, MetaMod & AMX Mod X" alt="SourceMod" width="26px" src="https://i.imgur.com/Zy5EEHZ.png" />
 
 <br />
 
-
-### Currently Learning:
+### Currently, Im Learning on my free time:
 <img align="left" title="Kubernetes" alt="Kubernetes" width="28px" src="https://kubernetes.io/images/favicon.png" />
 <img align="left" title="AWS" alt="AWS" width="28px" src="https://www.drupal.org/files/project-images/aws-logo.png" />
 <img align="left" title="Azure" alt="Azure" width="28px" src="https://www.ingrammicrocloud.com/sites/default/files/landingpagegenerator/1563973547_873107.png" />
