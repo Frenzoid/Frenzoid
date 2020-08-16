@@ -234,3 +234,16 @@ a:active {
 #rando {
   width: 200px;
 }
+
+.image-skill {
+  margin: 10px;
+}
+
+.flexer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flexer > img {
+  width: 5%;
+}
