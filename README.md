@@ -65,6 +65,7 @@ This is my github repo, and you will find personal projects and university proje
 
 <h3> Miscs (Platforms, Clouds, Tools, etc): </h3>
 <img align="left" title="Docker" alt="Docker" width="26px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
+<img align="left" title="Traefik" alt="Traefik"  width="27px" src="https://cdn.rancher.com/wp-content/uploads/2016/05/23182929/traefik.logo_.png" />
 <img align="left" title="Vagrant" alt="Vagrant"  width="27px" src="https://i.imgur.com/UFbymAw.png" />
 <img align="left" title="Terraform" alt="Terraform"  width="27px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" />
 <img align="left" title="Google Cloud" alt="Google Cloud" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-189812.png" />
