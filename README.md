@@ -75,7 +75,7 @@ This is my github repo, and you will find personal projects and university proje
 
 <h3> Cool things Im Learning / Practicing on my free time: </h3>
 <img align="left" title="Kubernetes" alt="Kubernetes" width="28px" src="https://kubernetes.io/images/favicon.png" />
-<img align="left" title="AWS" alt="AWS" width="28px" src="https://www.drupal.org/files/project-images/aws-logo.png" />
+<img align="left" title="Amazon Web Services" alt="AWS" width="28px" src="https://www.drupal.org/files/project-images/aws-logo.png" />
 <img align="left" title="Azure" alt="Azure" width="28px" src="https://www.ingrammicrocloud.com/sites/default/files/landingpagegenerator/1563973547_873107.png" />
 <img align="left" title="Google Cloud" alt="Google Cloud" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-189812.png" />
 
