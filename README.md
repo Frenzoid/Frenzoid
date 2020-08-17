@@ -66,13 +66,14 @@ This is my github repo, and you will find personal projects and university proje
 <h3> Miscs (Platforms, Clouds, Tools, etc): </h3>
 <img align="left" title="Docker" alt="Docker" width="26px" src="https://image.flaticon.com/icons/png/512/919/919853.png" />
 <img align="left" title="Vagrant" alt="Vagrant"  width="27px" src="https://i.imgur.com/UFbymAw.png" />
+<img align="left" title="Terraform" alt="Terraform"  width="27px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" />
 <img align="left" title="Google Cloud" alt="Google Cloud" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-189812.png" />
 <img align="left" title="Ansible" alt="Ansible" width="28px" src="https://secure.meetupstatic.com/photos/event/d/7/2/a/highres_465655082.jpeg" />
 <img align="left" title="SourceMod, MetaMod & AMX Mod X" alt="SourceMod" width="26px" src="https://i.imgur.com/Zy5EEHZ.png" />
 
 <br />
 
-<h3> Currently, Im Learning on my free time: </h3>
+<h3> Currently, Im Learning / Practicing on my free time: </h3>
 <img align="left" title="Kubernetes" alt="Kubernetes" width="28px" src="https://kubernetes.io/images/favicon.png" />
 <img align="left" title="AWS" alt="AWS" width="28px" src="https://www.drupal.org/files/project-images/aws-logo.png" />
 <img align="left" title="Azure" alt="Azure" width="28px" src="https://www.ingrammicrocloud.com/sites/default/files/landingpagegenerator/1563973547_873107.png" />
