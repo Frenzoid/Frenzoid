@@ -74,7 +74,7 @@ This is my github repo, and you will find personal projects and university proje
 
 <br />
 
-<h3> Currently, Im Learning / Practicing on my free time: </h3>
+<h3> Cool things Im Learning / Practicing on my free time: </h3>
 <img align="left" title="Kubernetes" alt="Kubernetes" width="28px" src="https://kubernetes.io/images/favicon.png" />
 <img align="left" title="AWS" alt="AWS" width="28px" src="https://www.drupal.org/files/project-images/aws-logo.png" />
 <img align="left" title="Azure" alt="Azure" width="28px" src="https://www.ingrammicrocloud.com/sites/default/files/landingpagegenerator/1563973547_873107.png" />
@@ -86,7 +86,7 @@ This is my github repo, and you will find personal projects and university proje
 - [This is my Steam Account.][steam]
 - Or, if you like a more personal approach, here is my email: [frenzoid@protonmail.com][email]
 
-## 
+##
 
 ## Aaand, if you are here searching for the Sourcemod Plugins...
 <div>
