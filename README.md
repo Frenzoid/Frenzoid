@@ -1,22 +1,23 @@
 
 
+<a href="https://www.codewars.com/users/Frenzoid">
+    <p align="center">
+        <img width="70%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
+    </p>
+</a>
 
 ## Hi there! I'm Frenzoid 👋.
 ### Heres a little about me.
 
 Im a Uni student coursing a degree in Computer Engineering, i love to spend my freetime playing videogames, and learning / testing different technologies.
 
-
-
 This is my github repo, and you will find personal and school projects.
+
 
 - 📜 I’m currently studying at [UA][uni]!
 - 💻 Currently learning everyday a little bit of _everything_.
-- 📖 Here's [my portfolio][website], if you want to know more about me :D .
+- 📖 Here's [my portfolio][website], if you want to know more about me :D.
 
-<a href="https://www.codewars.com/users/Frenzoid">
-    <img width="30%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
-</a>
 
 ## Summary of Technologies i know.
 <h3> Programming & Scripting languages: </h3>
