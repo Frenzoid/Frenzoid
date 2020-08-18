@@ -14,6 +14,10 @@ This is my github repo, and you will find personal and school projects.
 - 💻 Currently learning everyday a little bit of _everything_.
 - 📖 Here's [my portfolio][website], if you want to know more about me :D .
 
+<a href="https://www.codewars.com/users/Frenzoid">
+    <img width="30%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
+</a>
+
 ## Summary of Technologies i know.
 <h3> Programming & Scripting languages: </h3>
 <img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
