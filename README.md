@@ -1,11 +1,8 @@
 
-<a align="center" href="https://www.codewars.com/users/Frenzoid">
-    <p>
-    <img width="60%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
-    </p>
-</a>
 
-## Hi there, I'm Frenzoid 👋, heres a little about me.
+
+## Hi there! I'm Frenzoid 👋.
+### Heres a little about me.
 
 Im a Uni student coursing a degree in Computer Engineering, i love to spend my freetime playing videogames, and learning / testing different technologies.
 
