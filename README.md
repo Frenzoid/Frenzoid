@@ -8,8 +8,8 @@ This is my github repo, and you will find personal projects and university proje
 - 💻 Currently learning everyday a little bit of _everything_.
 - 📖 Here's [my portfolio][website], if you want to know more about me :D .
 
-<a href="https://www.codewars.com/users/Frenzoid">
-    <img src="https://www.codewars.com/users/Frenzoid/badges/large" />
+- <a href="https://www.codewars.com/users/Frenzoid">
+    <img src="https://www.codewars.com/users/Frenzoid/badges/small" />
 </a>
 
 ## Summary of Technologies i know.
