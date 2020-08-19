@@ -2,7 +2,7 @@
 
 <a href="https://www.codewars.com/users/Zoomister">
     <p align="center">
-        <img width="70%" src="https://www.codewars.com/users/Zoomister/badges/large" />
+        <img width="60%" src="https://www.codewars.com/users/Zoomister/badges/large" />
     </p>
 </a>
 
