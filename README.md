@@ -1,8 +1,8 @@
 
 
-<a href="https://www.codewars.com/users/Zoomister">
+<a href="https://www.codewars.com/users/Frenzoid">
     <p align="center">
-        <img width="60%" src="https://www.codewars.com/users/Zoomister/badges/large" />
+        <img width="60%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
     </p>
 </a>
 
