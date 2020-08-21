@@ -38,6 +38,7 @@ This is my github repo, and you will find personal and school projects.
 <img align="left" title="SWI Prolog" alt="SWI Prolog" width="26px" src="https://matisse-babonneau.fr/images/comp/prolog.png" />
 
 <br />
+<br />
 
 <h3> Frameworks and Environments: </h3>
 <img align="left" title="Angular" alt="Angular" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" />
@@ -49,7 +50,7 @@ This is my github repo, and you will find personal and school projects.
 <img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" title="Deno" alt="Deno" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Dino_in_the_Rain.png" />
 
-
+<br />
 <br />
 
 <h3> Databases: </h3>
@@ -62,6 +63,7 @@ This is my github repo, and you will find personal and school projects.
 
 
 <br />
+<br />
 
 <h3> Operating Systems: </h3>
 <img align="left" title="Windows Server 2012" alt="Windows Server 2012" width="26px" src="https://img2.freepng.es/20180820/hwh/kisspng-windows-server-2-12-computer-servers-microsoft-win-kvm-5b7b67aacc4e33.0162970515348141228369.jpg" />
@@ -71,6 +73,7 @@ This is my github repo, and you will find personal and school projects.
 <img align="left" title="MXLinux" alt="MXLinux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/MX_Linux_logo.svg/1130px-MX_Linux_logo.svg.png" />
 
 
+<br />
 <br />
 
 <h3> Miscs (Platforms, Clouds, Tools, etc): </h3>
@@ -83,12 +86,14 @@ This is my github repo, and you will find personal and school projects.
 <img align="left" title="SourceMod, MetaMod & AMX Mod X" alt="SourceMod" width="26px" src="https://i.imgur.com/Zy5EEHZ.png" />
 
 <br />
+<br />
 
 <h3> Cool things Im Learning / Practicing on my free time: </h3>
 <img align="left" title="Amazon Web Services" alt="AWS" width="28px" src="https://www.drupal.org/files/project-images/aws-logo.png" />
 <img align="left" title="Azure" alt="Azure" width="28px" src="https://www.ingrammicrocloud.com/sites/default/files/landingpagegenerator/1563973547_873107.png" />
 <img align="left" title="Google Cloud" alt="Google Cloud" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-189812.png" />
 
+<br />
 <br />
 
 ## Lets get in touch!
