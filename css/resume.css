@@ -215,24 +215,8 @@ a:active {
   background-color: #082c5065;
 }
 
-.characters {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  flex-basis: 20%;
-}
-
-#brad {
-  width: 150px;
-}
-
-#buddy {
-  width: 250px;
-}
-
-#rando {
-  width: 200px;
+#katanazero {
+  width: 100%;
 }
 
 .image-skill {
