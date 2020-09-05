@@ -16,6 +16,7 @@ This is my github repo, and you will find personal and school projects.
 
 - 📜 I’m currently studying at [UA][uni]!
 - 💻 Currently learning everyday a little bit of _everything_.
+- 🔒 I like lockpicking :p
 - 📖 Here's [my portfolio][website], if you want to know more about me :D.
 
 
