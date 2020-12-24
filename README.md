@@ -31,7 +31,7 @@ This is my github repo, and you will find personal and school projects.
 ## Aaand, if you are here searching for the Sourcemod Plugins...
 <div>
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
-        <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true" />
+        <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=dark" />
     </a>
     <a href="https://github.com/Frenzoid/TF2_SetClassHealthRegen">
         <img width="49%" alt="TF2_SetClassHealthRegen" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassHealthRegen&hide_border=true" />
