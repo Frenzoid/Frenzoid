@@ -15,9 +15,8 @@ This is my github repo, and you will find personal and school projects.
 
 
 - 📜 I’m currently studying at [UA][uni]!
-- 💻 Currently learning everyday a little bit of _everything_.
-- 🔒 I like lockpicking :p
-- 🕵️ In the future, i would love to work on something related with physical social engineering, testing physical security, and breaking into buildings.
+- 💻 Currently learning everyday, a little bit of _everything_.
+- 🔒 One of my hobbies is lockpicking!
 - 📖 Here's [my portfolio][website], if you want to know more about me :D.
 
 
