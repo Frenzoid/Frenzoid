@@ -5,7 +5,7 @@
         <img width="60%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
     </p>
 </a>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=Frenzoid)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi there! I'm Frenzoid 👋.
 ### Heres a little about me.
