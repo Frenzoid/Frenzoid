@@ -6,8 +6,6 @@
     </p>
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frenzoid&show_icons=true&theme=react&layout=compact)
-
 ## Hi there! I'm Frenzoid 👋.
 ### Heres a little about me.
 
