@@ -1,3 +1,4 @@
+![Frenzoid's github stats](https://github-readme-stats.vercel.app/api?username=Frenzoid&show_icons=true)
 
 
 <a href="https://www.codewars.com/users/Frenzoid">
@@ -5,7 +6,6 @@
         <img width="60%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
     </p>
 </a>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Frenzoid&hide=contribs,prs)
 
 ## Hi there! I'm Frenzoid 👋.
 ### Heres a little about me.
