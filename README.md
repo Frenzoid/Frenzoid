@@ -1,5 +1,3 @@
-
-
 <a href="https://www.codewars.com/users/Frenzoid">
     <p align="center">
         <img width="60%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
@@ -7,27 +5,29 @@
 </a>
 
 ## Hi there! I'm Frenzoid 👋.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
+
+
 ### Heres a little about me.
 
-Im a Uni student coursing a degree in Computer Engineering, i love to spend my freetime playing videogames, and learning / testing different technologies.
+Im a Uni student, coursing a degree in Computer Engineering.
 
-This is my github repo, and you will find personal and school projects.
+I love to spend my freetime playing videogames, and learning && testing different technologies :D
 
+This is my github repo, and you will find personal stuff and school projects.
 
 - 📜 I’m currently studying at [UA][uni]!
-- 💻 Currently learning everyday, a little bit of _everything_.
-- 🔒 One of my hobbies is lockpicking!
-- 📖 Here's [my portfolio][website], if you want to know more about me :D.
+- 📖 Here's [my portfolio][website], if you want to know more about me.
 
 
 ## Lets get in touch!
 - [Here is my LinkedIn.][linkedin]
 - [This is my Steam Account.][steam]
-- Or, if you like a more personal approach, here is my email: [frenzoid@protonmail.com][email]
+- Or, if you like a more personal approach, here is my email: [frenzoid@pm.me][email]
 
 ##
 
-## Aaand, if you are here searching for the Sourcemod Plugins...
+## Aaand, if you are here, searching for the Sourcemod Plugins...
 <div>
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
         <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=react" />
@@ -53,4 +53,4 @@ This is my github repo, and you will find personal and school projects.
 [website]: https://frenzoid.github.io/Frenzoid/
 [steam]: https://steamcommunity.com/id/MrFren
 [linkedin]: https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158/
-[email]: mailto:frenzoid@protonmail.com
+[email]: mailto:frenzoid@pm.me
