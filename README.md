@@ -12,7 +12,7 @@
 
 Im a Uni student, coursing a degree in Computer Engineering.
 
-I love to spend my freetime playing videogames, and learning && testing different technologies :D
+I love to spend my freetime playing videogames && learning / testing different technologies :D
 
 This is my github repo, and you will find personal stuff and school projects.
 
