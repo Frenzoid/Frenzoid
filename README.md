@@ -14,7 +14,7 @@ Im a Uni student, coursing a degree in Computer Engineering.
 
 I love to spend my freetime playing videogames && learning / testing different technologies :D
 
-This is my github repo, and you will find personal stuff and school projects.
+This is my github repo, and you will find personal stuff and uni related projects.
 
 - 📜 I’m currently studying at [UA][uni]!
 - 📖 Here's [my portfolio][website], if you want to know more about me.
