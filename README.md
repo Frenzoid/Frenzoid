@@ -3,7 +3,6 @@
         <img width="60%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
     </p>
 </a>
-<a href="https://i.imgur.com/tv9DR5a.jpg"> How did we get to this? </a>
 
 ## Hello there! 👋.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
@@ -17,7 +16,7 @@ This is my github repo, and you will find personal stuff and uni related project
 
 - 📜 I’m currently studying at [UA][uni]!
 - 📖 Here's [my portfolio][website], if you want to know more about me.
-
+- <a href="https://i.imgur.com/tv9DR5a.jpg"> Tier 2 kyu ? </a>
 
 ## Lets get in touch!
 - [Here is my LinkedIn.][linkedin]
