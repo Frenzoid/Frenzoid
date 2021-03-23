@@ -6,7 +6,7 @@
 
 ## Hello there! 👋.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
-
+<img src="https://i.imgur.com/tv9DR5a.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 ### Heres a little about me.
 
