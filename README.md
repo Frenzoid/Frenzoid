@@ -16,7 +16,6 @@ This is my github repo, and you will find personal stuff and uni related project
 
 - 📜 I’m currently studying at [UA][uni]!
 - 📖 Here's [my portfolio][website], if you want to know more about me.
-- <a href="https://i.imgur.com/tv9DR5a.jpg"> Tier 2 kyu ? </a>
 
 ## Lets get in touch!
 - [Here is my LinkedIn.][linkedin]
