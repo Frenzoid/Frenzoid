@@ -3,10 +3,10 @@
         <img width="60%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
     </p>
 </a>
+<img src="https://i.imgur.com/tv9DR5a.jpg" align="right" alt="Image">
 
 ## Hello there! 👋.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
-<img src="https://i.imgur.com/tv9DR5a.jpg" min-width="100px" max-width="100px" width="100px" align="right" alt="Image">
 ### Heres a little about me.
 
 Im a Uni student, coursing a degree in Computer Engineering.
