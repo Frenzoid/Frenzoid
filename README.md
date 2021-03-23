@@ -3,7 +3,7 @@
         <img width="60%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
     </p>
 </a>
-<img src="https://i.imgur.com/tv9DR5a.jpg" width="30%" align="right" alt="Image">
+<a src="https://i.imgur.com/tv9DR5a.jpg"> How did we get to this? </a>
 
 ## Hello there! 👋.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
