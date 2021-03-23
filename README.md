@@ -5,12 +5,8 @@
 </a>
 
 ## Hello there! 👋.
-<div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
-</div>
-<div>
-<img src="https://i.imgur.com/tv9DR5a.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
-</div>
+<img src="https://i.imgur.com/tv9DR5a.jpg" min-width="100px" max-width="100px" width="100px" align="right" alt="Image">
 ### Heres a little about me.
 
 Im a Uni student, coursing a degree in Computer Engineering.
