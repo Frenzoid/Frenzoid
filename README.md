@@ -16,6 +16,7 @@ This is my github repo, and you will find personal stuff and uni related project
 
 - 📜 I’m currently studying at [UA][uni]!
 - 📖 Here's [my portfolio][website], if you want to know more about me.
+- 🎮 Creator of [oldbox.cloud][ob]
 
 ## Lets get in touch!
 - [Here is my LinkedIn.][linkedin]
@@ -51,3 +52,4 @@ This is my github repo, and you will find personal stuff and uni related project
 [steam]: https://steamcommunity.com/id/MrFren
 [linkedin]: https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158/
 [email]: mailto:frenzoid@pm.me
+[ob]: https://oldbox.cloud/
