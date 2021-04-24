@@ -17,7 +17,7 @@ This is my github repo, and you will find personal stuff and uni related project
 
 - 📜 I’m currently studying at [UA][uni]!
 - 📖 Here's [my portfolio][website], if you want to know more about me.
-- 🎮 Creator of [oldbox.cloud][ob]
+- 🎮 Creator of the [OldBox Community][ob]!
 - 📖 My favorite writter is Dmitri Glujovski.
 
 ## Lets get in touch!
