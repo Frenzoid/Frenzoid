@@ -6,6 +6,7 @@
 
 ## Hello there! 👋.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
+
 ### Heres a little about me.
 
 Im a Uni student, coursing a degree in Computer Science and Engineering.
