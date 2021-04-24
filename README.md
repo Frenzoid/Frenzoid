@@ -7,7 +7,7 @@
 ## Hello there! 👋.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
-### Heres a little about me.
+### Here is a little about me.
 
 Im a Uni student, coursing a degree in Computer Science and Engineering.
 
@@ -18,6 +18,7 @@ This is my github repo, and you will find personal stuff and uni related project
 - 📜 I’m currently studying at [UA][uni]!
 - 📖 Here's [my portfolio][website], if you want to know more about me.
 - 🎮 Creator of [oldbox.cloud][ob]
+- 📖 My favorite writter is Dmitri Glujovski.
 
 ## Lets get in touch!
 - [Here is my LinkedIn.][linkedin]
