@@ -21,9 +21,9 @@ This is my github repo, and you will find personal stuff and uni related project
 - 📖 My favorite writter is Dmitri Glujovski.
 
 ## Lets get in touch!
-- [Here is my LinkedIn.][linkedin]
-- [This is my Steam Account.][steam]
-- Or, if you like a more personal approach, here is my email: [frenzoid@pm.me][email]
+- This is my email [frenzoid@pm.me][email]
+- [Here is my LinkedIn page.][linkedin]
+- [And this is my Steam Account.][steam]
 
 ##
 
