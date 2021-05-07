@@ -1,9 +1,9 @@
-## Hello there! 👋.
 <a href="https://www.codewars.com/users/Frenzoid">
     <p align="right">
         <img width="50%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
     </p>
 </a>
+## Hello there! 👋.
 <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!">
 
 ### Here is a little about me.
