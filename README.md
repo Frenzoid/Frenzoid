@@ -8,13 +8,14 @@ I enjoy spending my freetime playing videogames && ( learning || testing ) diffe
 
 This is my github repo, and you will find personal stuff and uni related projects.
 
+- <a href="https://www.codewars.com/users/Frenzoid">
+    <img width="40%" src="https://www.codewars.com/users/Frenzoid/badges/small" />
+  </a>
 - 📜 Currently studying at [UA][uni]!
 - 📖 This is [my portfolio][website].
 - 🎮 Creator of the [OldBox Community][ob]!
 - 📖 My favorite writter is Dmitri Glujovski.
-- <a href="https://www.codewars.com/users/Frenzoid">
-    <img width="40%" src="https://www.codewars.com/users/Frenzoid/badges/small" />
-  </a>
+
 
 ## Lets get in touch!
 - This is my email [frenzoid@pm.me][email]
