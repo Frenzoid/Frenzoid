@@ -11,7 +11,7 @@
 
 Im a Uni student, coursing a degree in Computer Science and Engineering.
 
-I love to spend my freetime playing videogames && ( learning || testing ) different technologies :D
+I enjoy spending my freetime playing videogames && ( learning || testing ) different technologies :D
 
 This is my github repo, and you will find personal stuff and uni related projects.
 
@@ -26,7 +26,7 @@ This is my github repo, and you will find personal stuff and uni related project
 - [And this is my Steam Account.][steam]
 
 
-## And if you came from AlliedModders, check these out!
+## And if you came from AlliedModders, you must be here for these!
 <div>
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
         <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=react" />
