@@ -1,7 +1,7 @@
 ## Hello there! 👋.
 <a href="https://www.codewars.com/users/Frenzoid">
     <p align="right">
-        <img width="40%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
+        <img width="50%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
     </p>
 </a>
 <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!">
