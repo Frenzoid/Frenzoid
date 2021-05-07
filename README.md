@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!">
 
 ### Here is a little about me.
-
+<div style="border: 1px solid grey;">
 Im a Uni student, coursing a degree in Computer Science and Engineering.
 
 I enjoy spending my freetime playing videogames && ( learning || testing ) different technologies :D
@@ -19,7 +19,7 @@ This is my github repo, and you will find personal stuff and uni related project
 - 📖 This is [my portfolio][website].
 - 🎮 Creator of the [OldBox Community][ob]!
 - 📖 My favorite writter is Dmitri Glujovski.
-
+</div>
 ## Lets get in touch!
 - This is my email [frenzoid@pm.me][email]
 - [Here is my LinkedIn page.][linkedin]
