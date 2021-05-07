@@ -26,7 +26,7 @@ This is my github repo, and you will find personal stuff and uni related project
 - [And this is my Steam Account.][steam]
 
 
-### If you came from AM, check these out!
+## And if you came from AlliedModders, check these out!
 <div>
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
         <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=react" />
