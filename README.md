@@ -5,9 +5,9 @@
 </a>
 
 ## Hello there! 👋.
+<img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!">
 
 ### Here is a little about me.
-<img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!">
 
 Im a Uni student, coursing a degree in Computer Science and Engineering.
 
