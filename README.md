@@ -16,7 +16,7 @@ I enjoy spending my freetime playing videogames && ( learning || testing ) diffe
 This is my github repo, and you will find personal stuff and uni related projects.
 
 - 📜 I’m currently studying at [UA][uni]!
-- 📖 Here's [my portfolio][website], if you want to know more about me.
+- 📖 This is [my portfolio][website].
 - 🎮 Creator of the [OldBox Community][ob]!
 - 📖 My favorite writter is Dmitri Glujovski.
 
