@@ -9,7 +9,7 @@ I enjoy spending my freetime playing videogames && ( learning || testing ) diffe
 This is my github repo, and you will find personal stuff and uni related projects.
 
 - <a href="https://www.codewars.com/users/Frenzoid">
-    <img width="35%" src="https://www.codewars.com/users/Frenzoid/badges/small" />
+    <img width="35%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
   </a>
 - 📜 Currently studying at [UA][uni]!
 - 📖 This is [my portfolio][website].
