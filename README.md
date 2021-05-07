@@ -13,8 +13,8 @@ This is my github repo, and you will find personal stuff and uni related project
 - 🎮 Creator of the [OldBox Community][ob]!
 - 📖 My favorite writter is Dmitri Glujovski.
 - <a href="https://www.codewars.com/users/Frenzoid">
-    <p >
-        <img width="40%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
+    <p>
+        <img width="20%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
     </p>
 </a>
 
