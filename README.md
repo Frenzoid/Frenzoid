@@ -1,6 +1,6 @@
 <a href="https://www.codewars.com/users/Frenzoid">
     <p align="center">
-        <img width="60%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
+        <img width="40%" src="https://www.codewars.com/users/Frenzoid/badges/large" />
     </p>
 </a>
 
@@ -28,7 +28,7 @@ This is my github repo, and you will find personal stuff and uni related project
 ## And if you came from AlliedModders, you must be here for these!
 <div>
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
-        <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=react" />
+        <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=react"/>
     </a>
     <a href="https://github.com/Frenzoid/TF2_SetClassHealthRegen">
         <img width="49%" alt="TF2_SetClassHealthRegen" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassHealthRegen&hide_border=true&theme=react" />
@@ -43,7 +43,7 @@ This is my github repo, and you will find personal stuff and uni related project
         <img width="49%" alt="TF2_InvisibleWeaponsFix" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_InvisibleWeaponsFix&hide_border=true&theme=react" />
     </a>
     <a href="https://github.com/Frenzoid/SM_SourceRoundTimer">
-        <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&hide_border=true&theme=algolia" />
+        <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&hide_border=true&theme=algolia"/>
     </a>
 </div>
 
