@@ -8,7 +8,7 @@ Im a Uni student, coursing a degree in Computer Science and Engineering.
 I enjoy spending my freetime playing videogames && ( learning || testing ) different technologies :D
 
 This is my github repo, and you will find personal stuff and uni related projects.
-- ![](https://komarev.com/ghpvc/?username=Frenzoid&color=866cc6 )
+- ![](https://komarev.com/ghpvc/?username=Frenzoid&color=684dac )
 - <a href="https://www.codewars.com/users/Frenzoid">
     <img src="https://www.codewars.com/users/Frenzoid/badges/micro" />
   </a>
