@@ -11,6 +11,7 @@ This is my github repo, and you will find personal stuff and uni related project
 - <a href="https://www.codewars.com/users/Frenzoid">
     <img src="https://www.codewars.com/users/Frenzoid/badges/micro" />
   </a>
+- ![](https://komarev.com/ghpvc/?username=Frenzoid&color=9400d3 )
 - 📜 Currently studying at [UA][uni]!
 - 📖 This is [my portfolio][website].
 - 🎮 Creator of the [OldBox Community][ob]!
