@@ -1,6 +1,8 @@
 ## Hello there! 👋.
-<img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!">
-
+<div align="right">
+    ![](https://komarev.com/ghpvc/?username=Frenzoid&color=1bfed3 )
+    <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" alt="Muscle Cat Wins Again!">
+</div>
 ### Here is a little about me.
 Im a Uni student, coursing a degree in Computer Science and Engineering.
 
@@ -11,7 +13,6 @@ This is my github repo, and you will find personal stuff and uni related project
 - <a href="https://www.codewars.com/users/Frenzoid">
     <img src="https://www.codewars.com/users/Frenzoid/badges/micro" />
   </a>
-- ![](https://komarev.com/ghpvc/?username=Frenzoid&color=9400d3 )
 - 📜 Currently studying at [UA][uni]!
 - 📖 This is [my portfolio][website].
 - 🎮 Creator of the [OldBox Community][ob]!
