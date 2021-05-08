@@ -1,15 +1,13 @@
 ## Hello there! 👋.
-<div align="right">
-    ![](https://komarev.com/ghpvc/?username=Frenzoid&color=1bfed3 )
-    <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" alt="Muscle Cat Wins Again!">
-</div>
+
+<img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!">
 ### Here is a little about me.
 Im a Uni student, coursing a degree in Computer Science and Engineering.
 
 I enjoy spending my freetime playing videogames && ( learning || testing ) different technologies :D
 
 This is my github repo, and you will find personal stuff and uni related projects.
-
+- ![](https://komarev.com/ghpvc/?username=Frenzoid&color=1bfed3 )
 - <a href="https://www.codewars.com/users/Frenzoid">
     <img src="https://www.codewars.com/users/Frenzoid/badges/micro" />
   </a>
