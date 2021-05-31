@@ -13,7 +13,7 @@ This is my github repo, and you will find personal stuff and uni related project
     <img src="https://www.codewars.com/users/Frenzoid/badges/micro" />
   </a>
 - 📜 Currently studying at [UA][uni]!
-- 📖 Here is [my online cv][website].
+- 📖 Here is [my Online CV][website].
 - 🎮 Creator of the [OldBox Community][ob]!
 - 📖 My favorite writter is Dmitri Glujovski.
 
