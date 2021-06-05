@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!">
 
 ### Here is a little about me.
-Im a Uni student, coursing a degree in Computer Engineering.
+Im a Uni student, coursing a degree in Computer Science & Engineering.
 
 I enjoy spending my free time playing video games && also ( learning || testing ) different technologies :D. Im currently learning about blockchain, more specifically Ethereum's blockchain ^v^ with Solidity.
 
