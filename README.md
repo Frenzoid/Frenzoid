@@ -15,7 +15,7 @@ This is my github repo, and you will find personal stuff and uni related project
 - 📜 Here is [my resume][website].
 - 🎮 Creator of the [OldBox Community][ob]!
 - 📚 My favorite author is Dmitri Glujovski.
-- 🎵 <i><a href="https://www.youtube.com/watch?v=dbmf7aLU2fE">Small beginnings, for big endings.</a></i>
+- 🎵 <i><a href="https://www.youtube.com/watch?v=dbmf7aLU2fE">From small beginnings, come big endings.</a></i>
 
 
 ### Lets get in touch!
