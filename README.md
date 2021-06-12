@@ -1,7 +1,6 @@
 ## Hello there! 👋.
 
 <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!">
-
 ### Here is a little about me.
 Im a Uni student, coursing a degree in Computer Science & Engineering.
 
@@ -16,6 +15,7 @@ This is my github repo, and you will find personal stuff and uni related project
 - 📜 Here is [my resume][website].
 - 🎮 Creator of the [OldBox Community][ob]!
 - 📚 My favorite author is Dmitri Glujovski.
+- 🎵 <i><a href="https://www.youtube.com/watch?v=dbmf7aLU2fE">Small beginnings, for big endings.</a></i>
 
 
 ### Lets get in touch!
