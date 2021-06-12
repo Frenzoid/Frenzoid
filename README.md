@@ -1,6 +1,7 @@
 ## Hello there! 👋.
 
-<img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!">
+<img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
+
 ### Here is a little about me.
 Im a Uni student, coursing a degree in Computer Science & Engineering.
 
