@@ -21,7 +21,7 @@ This is my github repo, and you will find personal stuff and uni related project
 
 ### Lets get in touch!
 <a href="mailto:frenzoid@pm.me">
-    <img src="https://img.shields.io/badge/-frenzoid@pm.me-blue?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-frenzoid@pm.me-253163?style=flat-square&logo=Gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158">
     <img src="https://img.shields.io/badge/-Elvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158/">
