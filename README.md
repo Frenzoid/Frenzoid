@@ -20,9 +20,15 @@ This is my github repo, and you will find personal stuff and uni related project
 
 
 ### Lets get in touch!
-- This is my email [frenzoid@pm.me][email]
-- [Here is my LinkedIn page.][linkedin]
-- [And this is my Steam Account.][steam]
+<a href="mailto:frenzoid@pm.me">
+    <img src="https://img.shields.io/badge/-frenzoid@pm.me-blue?style=flat-square&logo=Gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158">
+    <img src="https://img.shields.io/badge/-Elvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158/">
+</a>
+<a href="https://steamcommunity.com/id/MrFren">
+    <img src="https://img.shields.io/badge/-MrFrenzoid-black?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/MrFren">
+</a>
 
 
 ### And if you came from AlliedModders, you must be here for these!
@@ -49,7 +55,4 @@ This is my github repo, and you will find personal stuff and uni related project
 
 [uni]: https://www.ua.es/
 [website]: https://frenzoid.github.io/Frenzoid/
-[steam]: https://steamcommunity.com/id/MrFren
-[linkedin]: https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158/
-[email]: mailto:frenzoid@pm.me
 [ob]: https://oldbox.cloud/
