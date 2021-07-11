@@ -5,7 +5,7 @@
 <p>- Obi Wan Kenobi.</p>
 
 ### Here is a little about me.
-Im a student, coursing a university degree in Computer Science & Engineering.
+Im a uni student, coursing a bachelor's degree in Computer Science & Engineering.
 
 I enjoy spending my free time playing video games && also ( learning || testing ) different technologies :D. Im currently learning about blockchain, more specifically Ethereum's blockchain ^v^ with Solidity.
 
