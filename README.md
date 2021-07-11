@@ -7,7 +7,7 @@
 ### Here is a little about me.
 Im a uni student, coursing a Bachelor's degree in Computer Science & Engineering.
 
-I enjoy spending my free time playing video games && also ( learning || testing ) different technologies :D. Im currently learning about blockchain, more specifically Ethereum's blockchain ^v^ with Solidity.
+I enjoy spending my free time playing video games && also ( learning || testing ) different technologies :D. Im currently learning about blockchain, more specifically Ethereum's blockchain with Solidity.
 
 This is my github repo, and you will find personal stuff and uni related projects.
 - ![](https://komarev.com/ghpvc/?username=Frenzoid&color=684dac )
