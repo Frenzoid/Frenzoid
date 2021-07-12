@@ -1,10 +1,7 @@
-## Hello there! 👋.
+## Hello there! 👋. Here is a little about me
 
-<i>"Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view."</i> 
-<p>- Obi Wan Kenobi.</p>
 <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
 
-### Here is a little about me.
 Im a uni student, coursing a Bachelor's degree in Computer Science & Engineering.
 
 I enjoy spending my free time playing video games && also ( learning || testing ) different technologies :D. Im currently learning about blockchain, more specifically Ethereum's blockchain with Solidity.
@@ -54,6 +51,9 @@ This is my github repo, and you will find personal stuff and uni related project
         <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&hide_border=true&theme=algolia"/>
     </a>
 </div>
+
+<i>"Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view."</i> 
+<p>- Obi Wan Kenobi.</p>
 
 [uni]: https://www.ua.es/
 [website]: https://frenzoid.github.io/Frenzoid/
