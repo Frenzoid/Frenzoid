@@ -1,8 +1,7 @@
 ## Hello there! 👋.
 
-<i>"Wait a minute, how did this happen? We're smarter than this!"</i> 
+<i>"Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view."</i> 
 <p>- Obi Wan Kenobi.</p>
-<hr>
 <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
 
 ### Here is a little about me.
