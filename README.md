@@ -1,11 +1,10 @@
-## Hello there! 👋.
+## Hello there, here is a little about me:
 
 <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
 
-### Here is a little about me.
-Im a Uni student, coursing a degree in Computer Science & Engineering.
+Im a uni student, coursing a Bachelor's degree in Computer Science & Engineering.
 
-I enjoy spending my free time playing video games && also ( learning || testing ) different technologies :D. Im currently learning about blockchain, more specifically Ethereum's blockchain ^v^ with Solidity.
+I enjoy spending my free time playing video games && also ( learning || testing ) different technologies :D. Im currently learning about blockchain, more specifically Ethereum's blockchain with Solidity.
 
 This is my github repo, and you will find personal stuff and uni related projects.
 - ![](https://komarev.com/ghpvc/?username=Frenzoid&color=684dac )
@@ -35,12 +34,6 @@ This is my github repo, and you will find personal stuff and uni related project
 <div>
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
         <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=react"/>
-    </a>
-    <a href="https://github.com/Frenzoid/TF2_SetClassHealthRegen">
-        <img width="49%" alt="TF2_SetClassHealthRegen" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassHealthRegen&hide_border=true&theme=react" />
-    </a>
-    <a href="https://github.com/Frenzoid/TF2_SetClassMaxHealth">
-        <img width="49%" alt="TF2_SetClassMaxHealths" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxHealth&hide_border=true&theme=react" />
     </a>
     <a href="https://github.com/Frenzoid/TF2_FF2DamageTracker">
         <img width="49%" alt="TF2_FF2DamageTrackers" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_FF2DamageTracker&hide_border=true&theme=react" />
