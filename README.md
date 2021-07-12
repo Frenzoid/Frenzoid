@@ -1,6 +1,7 @@
 ## Hello there! 👋.
 
-<i>"Wait a minute, how did this happen? We're smarter than this!"</i> <p>- Obi Wan Kenobi.</p>
+<p><i>"Wait a minute, how did this happen? We're smarter than this!"</i> 
+    - Obi Wan Kenobi.</p>
 <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
 
 ### Here is a little about me.
