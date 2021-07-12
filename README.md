@@ -35,12 +35,6 @@ This is my github repo, and you will find personal stuff and uni related project
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
         <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=react"/>
     </a>
-    <a href="https://github.com/Frenzoid/TF2_SetClassHealthRegen">
-        <img width="49%" alt="TF2_SetClassHealthRegen" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassHealthRegen&hide_border=true&theme=react" />
-    </a>
-    <a href="https://github.com/Frenzoid/TF2_SetClassMaxHealth">
-        <img width="49%" alt="TF2_SetClassMaxHealths" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxHealth&hide_border=true&theme=react" />
-    </a>
     <a href="https://github.com/Frenzoid/TF2_FF2DamageTracker">
         <img width="49%" alt="TF2_FF2DamageTrackers" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_FF2DamageTracker&hide_border=true&theme=react" />
     </a>
@@ -51,9 +45,6 @@ This is my github repo, and you will find personal stuff and uni related project
         <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&hide_border=true&theme=algolia"/>
     </a>
 </div>
-
-<i>"Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view."</i> 
-<p>- Obi Wan Kenobi.</p>
 
 [uni]: https://www.ua.es/
 [website]: https://frenzoid.github.io/Frenzoid/
