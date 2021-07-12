@@ -1,4 +1,4 @@
-## Hello there! 👋. Here is a little about me
+## Hello there, here is a little about me:
 
 <img src="https://raw.githubusercontent.com/Frenzoid/Frenzoid/master/assets/bruhh2.png" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
 
