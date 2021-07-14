@@ -176,9 +176,6 @@ section.resume-section .resume-item .resume-date {
     min-width: 18rem;
   }
 
-  .fixed-top{
-    position: inherit;
-  }
 }
 
 @media (min-width: 992px) {
