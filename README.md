@@ -12,7 +12,7 @@ This is my github repo, and you will find personal stuff and uni related project
     <img src="https://www.codewars.com/users/Frenzoid/badges/micro" />
   </a>
 - 📖 Currently studying at [UA][uni]!
-- 📜 Here is [my resume][website].
+- 📜 Here is [my resume][website] and [portfolio][portfolio].
 - 🎮 Creator of the [OldBox Community][ob]!
 - 📚 My favorite author is Dmitri Glujovski.
 - 🎵 <i><a href="https://www.youtube.com/watch?v=dbmf7aLU2fE">From small beginnings, come big endings</a>.</i>
@@ -48,4 +48,5 @@ This is my github repo, and you will find personal stuff and uni related project
 
 [uni]: https://www.ua.es/
 [website]: https://frenzoid.github.io/Frenzoid/
+[portfolio]: https://frenzoid.github.io/Frenzoid/portfolio.html
 [ob]: https://oldbox.cloud/
