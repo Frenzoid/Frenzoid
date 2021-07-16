@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+    background-image: url("../assets/pbodybg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+}
+
+.bg-container {
+    background-color: rgba(7, 1, 1, 0.747);
+}
+
+.footer {
+    background-color: rgba(7, 1, 1, 0.747);
+}
+
+.project-card {
+    border: 1px solid rgba(218, 165, 32, 0.822);
+    background: transparent;
+}
+
+.project-image{
+    width: 31%;
+}
