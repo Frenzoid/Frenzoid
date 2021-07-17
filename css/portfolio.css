@@ -16,10 +16,20 @@ body{
 }
 
 .project-card {
-    border: 1px solid rgba(218, 165, 32, 0.822);
+    border: rgba(218, 165, 32, 0.822) solid 1px ;
     background: transparent;
 }
 
 .project-image{
     width: 31%;
+}
+
+.hovering {
+    transition: transform .1s;
+    border: rgba(150, 114, 24, 0.822) solid 1px;
+}
+
+.hovering:hover {
+    border: rgb(255, 183, 0) solid 1px;
+    transform: scale(1.05);
 }
