@@ -81,12 +81,10 @@
 body {
   color: white;
   background-color: #001d3a;
-  background-image: url('../assets/general-images/bodybg.webp');
+  background: url('../assets/general-images/bodybg.webp') fixed center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
 }
-
 
 h1,
 h2,
