@@ -100,7 +100,8 @@ h6 {
 section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 75rem;
+  max-width: 90rem;
+  margin: auto;
 }
 
 section.resume-section .resume-item .resume-date {
