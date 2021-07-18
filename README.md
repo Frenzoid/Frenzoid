@@ -46,7 +46,7 @@ This is my github repo, and you will find personal stuff and uni related project
     </a>
 </div>
 
-[uni]: https://www.ua.es/
+[uni]: https://www.ua.es/en/index.html
 [website]: https://frenzoid.github.io/Frenzoid/
 [portfolio]: https://frenzoid.github.io/Frenzoid/portfolio.html
 [ob]: https://oldbox.cloud/
