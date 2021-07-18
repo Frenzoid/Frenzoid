@@ -63,23 +63,17 @@
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
   }
+
 }
 
 @media (min-width: 768px) {
+
   section.resume-section {
     min-height: 100vh;
   }
 
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
-  }
-
-}
-
-@media (min-width: 992px) {
-  section.resume-section {
-    padding-top: 3rem !important;
-    padding-bottom: 3rem !important;
   }
 
 }
@@ -155,6 +149,7 @@ a:active {
 }
 
 .overlay {
+  padding-top: 3rem !important;
   background-color: #000222bd;
 }
 
