@@ -15,8 +15,7 @@ This is my github repo, and you will find personal stuff and uni related project
 - 📜 Here is [my resume][website] and [portfolio][portfolio].
 - 🎮 Creator of the [OldBox Community][ob]!
 - 📚 My favorite author is Dmitri Glujovski.
-- 
-- 🎵 <i><a href="https://www.youtube.com/watch?v=6e9-DndY-4s">Bucovina, plai cu flori Unde sunt ai tai feciori, Au fost dusi in alta tara, Dar se-ntorc la primavara</a>.</i>
+- 🎵 <i><a href="https://www.youtube.com/watch?v=6e9-DndY-4s">Bucovina plai cu flori, Unde sunt ai tai feciori, Au fost dusi in alta tara, Dar se-ntorc la primavara</a>.</i>
 
 
 ### Lets get in touch!
