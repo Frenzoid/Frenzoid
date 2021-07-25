@@ -19,15 +19,9 @@ This is my github repo, and you will find personal stuff and uni related project
 
 
 ### Lets get in touch!
-<a href="mailto:frenzoid@pm.me">
-    <img src="https://img.shields.io/badge/-frenzoid@pm.me-253163?style=flat-square&logo=protonmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158">
-    <img src="https://img.shields.io/badge/-Elvi_Mihai_Sabau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158/">
-</a>
-<a href="https://steamcommunity.com/id/MrFren">
-    <img src="https://img.shields.io/badge/-MrFrenzoid-1b2838?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/MrFren">
-</a>
+<img src="https://img.shields.io/badge/-frenzoid@pm.me-253163?style=flat-square&logo=protonmail&logoColor=white">
+<img src="https://img.shields.io/badge/-Elvi_Mihai_Sabau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvi-mihai-sabau-8a6251158/">
+<img src="https://img.shields.io/badge/-MrFrenzoid-1b2838?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/MrFren">
 
 
 ### And if you came from AlliedModders, you must be here for these!
