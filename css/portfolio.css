@@ -5,6 +5,12 @@ body{
     background-size: cover;
 }
 
+a:hover { 
+    text-decoration: none;
+    color: white;
+}
+
+
 .bg-container {
     background-color: rgba(7, 1, 1, 0.747);
 }

@@ -130,7 +130,7 @@ section.resume-section .resume-item .resume-date {
 
 .social-icons a:hover {
   color: white;
-  background-color: #eb2d4a;
+  background-color: #f02140;
 }
 
 .text-primary {
@@ -138,13 +138,12 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: rgb(168, 10, 10);
+  color: rgb(209, 10, 10);
 }
 
-a:hover,
-a:focus,
-a:active {
-  color: rgb(204, 12, 12);
+
+a:hover {
+  text-decoration: none;
 }
 
 .overlay {
@@ -179,4 +178,8 @@ a:active {
 
 #sideNav .navbar-toggler:focus {
   outline-color: rgb(156, 9, 9);
+}
+
+#email {
+  text-transform: uppercase;
 }
