@@ -37,3 +37,11 @@ a:hover {
     border: rgb(255, 183, 0) solid 1px;
     transform: scale(1.05);
 }
+
+.footer-item{
+    border-bottom: rgb(255, 183, 0) solid 1px;
+}
+
+.footer-item:hover{
+    border-bottom: rgb(255, 255, 255) solid 1px;
+}
