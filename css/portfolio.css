@@ -40,8 +40,15 @@ a:hover {
 
 .footer-item{
     border-bottom: rgb(255, 183, 0) solid 1px;
+    padding-bottom: 0.4rem;
+    padding-right: 0.4rem;
+    padding-left: 0.4rem;
+
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 .footer-item:hover{
     border-bottom: rgb(255, 255, 255) solid 1px;
+    transform: scale(1.05);
 }
