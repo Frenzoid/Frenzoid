@@ -158,8 +158,18 @@ a:hover {
 
 
 .image-skill-container{
-  height: 3.5rem;
-  width: 3.5rem;
+  height: 4rem;
+  width: 4rem;
+  border-bottom: #f02140 solid 1px;
+  padding-bottom: 0.4rem;
+  padding-right: 0.4rem;
+  padding-left: 0.4rem;
+  transition: transform .1s;
+}
+
+.image-skill-container:hover{
+  transform: scale(1.1);
+  border-bottom: #9900ff solid 1px;
 }
 
 .image-skill {
