@@ -75,7 +75,7 @@ a:hover {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: rgb(180, 129, 0);
+    background: rgb(255, 183, 0);
 }
 
 /* Handle on hover */

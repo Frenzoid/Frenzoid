@@ -98,11 +98,7 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
 </head>
 
 <body>
-    <header class="video-header">
-        <video playsinline autoplay muted loop>
-            <source src="./assets/portfolio/video/hall.webm" type="video/webm">
-        </video>
-    </header>
+    <video id="background-video"></video>
 
     <main class="container pb-3 bg-container">
 
@@ -114,10 +110,10 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                 find personal and uni related
                 projects.
             </p>
-            <p class="text-danger">
+            <strong class="text-danger">
                 Not all my projects are displayed here, if you want to check everything, you
                 should check my <a href="https://github.com/Frenzoid">github</a> page :)
-            </p>
+            </strong>
         </div>
 
         <!-- This is a project card -->
@@ -409,6 +405,36 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
             </div>
         </div>
     </footer>
+
+    <script>
+        // script associated to the background video switch on refresh.
+        bglist =
+            [
+                "./assets/portfolio/video/hall.webm",
+                "./assets/portfolio/video/nebulax.webm",
+                "./assets/portfolio/video/paragon.webm",
+                "./assets/portfolio/video/purpleforest.webm",
+            ];
+
+        let counter = Number(window.localStorage.getItem("counter")) || 0;
+
+        let video = document.getElementById("background-video");
+        let videosouce = document.createElement("source");
+
+        videosouce.setAttribute("src", bglist[counter]);
+        videosouce.setAttribute("type", "video/webm");
+        video.appendChild(videosouce);
+
+        video.loop = true;
+        video.muted = true;
+        video.playsinline = true;
+        video.autoplay = true;
+
+        window.localStorage.setItem("counter", counter >= bglist.length - 1 ? 0 : counter + 1);
+
+        console.log('%c Try refreshing the webpage :D ', 'background: #000; color: #bada55');
+
+    </script>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
