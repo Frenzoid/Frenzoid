@@ -1,8 +1,10 @@
 body{
-    background-color: grey;
+    background-color: rgb(0, 0, 0);
+    /*
     background: url("../assets/portfolio/images/general/pbodybg.webp") fixed center;
     background-repeat: no-repeat;
     background-size: cover;
+    */
 }
 
 video {
@@ -12,25 +14,28 @@ video {
     position: fixed;
     top: 0;
     left: 0;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
 }
 
 a:hover {
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .bg-container {
     position: relative;
-    background-color: rgba(7, 1, 1, 0.747);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .footer {
     position: relative;
-    background-color: rgba(7, 1, 1, 0.747);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .project-card {
-    border: rgba(218, 165, 32, 0.822) solid 1px ;
+    border: rgba(218, 165, 32, 0.8) solid 1px ;
     background: transparent;
 }
 
@@ -40,7 +45,7 @@ a:hover {
 
 .hovering {
     transition: transform .1s;
-    border: rgba(150, 114, 24, 0.822) solid 1px;
+    border: rgba(150, 114, 24, 0.8) solid 1px;
 }
 
 .hovering:hover {
@@ -70,7 +75,7 @@ a:hover {
 
 /* Track */
 ::-webkit-scrollbar-track {
-    background: #000000;
+    background: rgb(0, 0, 0);
 }
 
 /* Handle */
@@ -81,4 +86,14 @@ a:hover {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
     background: rgb(255, 183, 0);
+}
+
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
