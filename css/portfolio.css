@@ -7,18 +7,6 @@ body{
     */
 }
 
-video {
-    object-fit: cover;
-    width: 100vw;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    left: 0;
-    animation: fadeInAnimation ease 3s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
-}
-
 a:hover {
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -66,6 +54,16 @@ a:hover {
 .footer-item:hover{
     border-bottom: rgb(255, 255, 255) solid 1px;
     transform: scale(1.05);
+}
+
+#background-video {
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100vw;
+    height: 100vh;
+    display: none;
 }
 
 /* width */

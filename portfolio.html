@@ -407,18 +407,33 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
     </footer>
 
     <script>
-        // script associated to the background video switch on refresh.
+
+        // When video finishes downloading, display it fading.
+        let video = document.getElementById("background-video");
+
+        video.onloadeddata = () => {
+            video.style.display = "block";
+            video.style.animation = "fadeInAnimation ease 2s";
+            video.style.animationIterationCount = 1;
+            video.style.animationFillMode = "forwards";
+        };
+
+
+        // the script is associated to the background video switch on refresh.
         bglist =
             [
                 "./assets/portfolio/video/hall.webm",
                 "./assets/portfolio/video/nebulax.webm",
+                "./assets/portfolio/video/blackholestation.webm",
                 "./assets/portfolio/video/paragon.webm",
                 "./assets/portfolio/video/purpleforest.webm",
+                "./assets/portfolio/video/purplenight.webm",
+
             ];
 
         let counter = Number(window.localStorage.getItem("counter")) || 0;
+        window.localStorage.setItem("counter", counter >= bglist.length - 1 ? 0 : counter + 1);
 
-        let video = document.getElementById("background-video");
         let videosouce = document.createElement("source");
 
         videosouce.setAttribute("src", bglist[counter]);
@@ -429,8 +444,6 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
         video.muted = true;
         video.playsinline = true;
         video.autoplay = true;
-
-        window.localStorage.setItem("counter", counter >= bglist.length - 1 ? 0 : counter + 1);
 
         console.log('%c Try refreshing the webpage :D ', 'background: #000; color: #bada55');
 
