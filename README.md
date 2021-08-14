@@ -1,6 +1,6 @@
 ## Hello there! ( ͡° ͜ʖ ͡°)
 
-<img src="./assets/general-images/mhwendgamebuild.webp" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
+<img src="./assets/generic/images/mhwendgamebuild.webp" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
 
 Im a uni student, coursing a Bachelor's degree in Computer Science & Engineering.
 
