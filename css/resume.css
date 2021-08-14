@@ -171,7 +171,7 @@ a:hover {
 
 .image-skill-container:hover{
   transform: scale(1.1);
-  border-bottom: #ff0000 solid 1px;
+  border-bottom: #ffffff solid 2px;
   /* too extravagant?
     background: linear-gradient(360deg,#ffffff 0%, rgba(252,176,69,0) 45%, rgba(252,176,69,0) 100%);
   */
