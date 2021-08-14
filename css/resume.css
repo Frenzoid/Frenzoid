@@ -81,7 +81,7 @@
 body {
   color: white;
   background-color: #001d3a;
-  background: url('../assets/general-images/bodybg.webp') fixed center;
+  background: url('../assets/resume/images/general/bodybg.webp') fixed center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -197,4 +197,24 @@ a:hover {
 
 #email {
   text-transform: uppercase;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #f0214085;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background:#f02140;
 }

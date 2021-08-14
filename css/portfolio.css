@@ -1,8 +1,17 @@
 body{
     background-color: grey;
-    background: url("../assets/general-images/pbodybg.webp") fixed center;
+    background: url("../assets/portfolio/images/general/pbodybg.webp") fixed center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 
 a:hover {
@@ -10,12 +19,13 @@ a:hover {
     color: white;
 }
 
-
 .bg-container {
+    position: relative;
     background-color: rgba(7, 1, 1, 0.747);
 }
 
 .footer {
+    position: relative;
     background-color: rgba(7, 1, 1, 0.747);
 }
 
@@ -51,4 +61,24 @@ a:hover {
 .footer-item:hover{
     border-bottom: rgb(255, 255, 255) solid 1px;
     transform: scale(1.05);
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #000000;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgb(180, 129, 0);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(255, 183, 0);
 }
