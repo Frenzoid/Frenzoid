@@ -37,4 +37,7 @@ video.muted = true;
 video.playsinline = true;
 video.autoplay = true;
 
-console.log('%c Try refreshing the webpage :D ', 'background: #000; color: #bada55');
+// Photo showrell script.
+window.addEventListener('DOMContentLoaded', () => {
+    new SmartPhoto(".js-smartPhoto");
+});
