@@ -15,7 +15,12 @@ This is my github repo, and you will find personal stuff and uni related project
 - 📜 Here is [my resume][website] and [portfolio][portfolio].
 - 🎮 Creator of the [OldBox Community][ob]!
 - 📚 My favorite author is Dmitri Glujovski.
-- ✈️ <i><a href="https://external-preview.redd.it/kglYiLdhQ66pFoBfrvQveXWl-rCYsQXpDVnrCFQBMGw.jpg?auto=webp&s=bbef4c2ba538ae0f147d8efb2430c2fff09fdc18">Amidst the blue skies, a link from past to future. The sheltering wings of the protector</a></i>
+- 🎼 <i><a href="https://www.youtube.com/watch?v=Ko0Wetm2_So">
+        When the sun shines out,
+        Stars dance 'round in the grass,
+        All along my valley,
+        In the morning path.
+        </a></i>
 
 
 ### Lets get in touch!
