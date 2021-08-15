@@ -1,4 +1,4 @@
-## Hello there! ( ͡° ͜ʖ ͡°)
+## Hello there! 👋
 
 <img src="./assets/generic/images/mhwendgamebuild.webp" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
 
