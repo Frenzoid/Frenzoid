@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-<img src="./assets/generic/images/mhwendgamebuild.webp"  align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
+<img src="./assets/generic/images/mhwendgamebuild.webp" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
 
 Im a uni student, coursing a Bachelor's degree in Computer Science & Engineering.
 
@@ -20,8 +20,7 @@ This is my github repo, and you will find personal stuff and uni related project
         Stars dance 'round in the grass,
         All along my valley,
         In the morning path.
-        </a>
-        </i>
+        </a></i>
 
 
 ### Lets get in touch!
