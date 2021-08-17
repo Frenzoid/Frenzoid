@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-<img src="./assets/generic/images/mhwendgamebuild.webp" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!">
+<img src="./assets/generic/images/mhwendgamebuild.webp" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!" />
 
 Im a uni student, coursing a Bachelor's degree in Computer Science & Engineering.
 
@@ -26,13 +26,13 @@ This is my github repo, and you will find personal stuff and uni related project
 ### Lets get in touch!
 
 <a href="mailto:frenzoid@pm.me">
-    <img src="https://img.shields.io/badge/-frenzoid@pm.me-253163?style=flat-square&logo=protonmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-frenzoid@pm.me-253163?style=flat-square&logo=protonmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/elvimihai/">
-    <img src="https://img.shields.io/badge/-Elvi_Mihai_Sabau-blue?style=flat-square&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-Elvi_Mihai_Sabau-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://steamcommunity.com/id/MrFren">
-    <img src="https://img.shields.io/badge/-MrFrenzoid-1b2838?style=flat-square&logo=Steam&logoColor=white">
+    <img src="https://img.shields.io/badge/-MrFrenzoid-1b2838?style=flat-square&logo=Steam&logoColor=white" />
 </a>
 
 ### And if you came from AlliedModders, you must be here for these!
