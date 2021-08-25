@@ -51,7 +51,11 @@ a:hover {
 
 .project-image {
     min-width: 200px;
-    max-width: 31%;
+    max-width: 30%;
+}
+
+.project-image-vertical{
+    min-width: 30%;
 }
 
 .hovering {
