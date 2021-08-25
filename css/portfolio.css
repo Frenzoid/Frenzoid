@@ -1,3 +1,4 @@
+/* GENERAL TAGS*/
 body{
     background-color: rgb(0, 0, 0);
 }
@@ -7,6 +8,20 @@ a:hover {
     color: rgb(255, 255, 255);
 }
 
+
+/* IDS */
+#background-video {
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100vw;
+    height: 100vh;
+    display: none;
+}
+
+
+/* CLASSES */
 .bg-container {
     position: relative;
     background-color: rgba(0, 0, 0, 0.9);
@@ -54,20 +69,10 @@ a:hover {
 
 .footer-item:hover{
     border-bottom: rgb(255, 255, 255) solid 1px;
-    transform: scale(1.05);
 }
 
 
-#background-video {
-    object-fit: cover;
-    position: fixed;
-    top: 0;
-    right: 0;
-    width: 100vw;
-    height: 100vh;
-    display: none;
-}
-
+/* SCROLL BAR*/
 /* width */
 ::-webkit-scrollbar {
     width: 10px;
@@ -88,6 +93,8 @@ a:hover {
     background: rgb(255, 183, 0);
 }
 
+
+/* @s*/
 @media (max-width: 1000px) {
     .footer-item-center {
       display: none !important;

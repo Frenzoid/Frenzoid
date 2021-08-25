@@ -1,3 +1,135 @@
+/* GENERAL TAGS*/
+body {
+  color: white;
+  background-color: #001d3a;
+  background: url('../assets/resume/images/general/bodybg.webp') fixed center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+}
+
+section.resume-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  max-width: 85rem;
+  margin: auto;
+}
+
+section.resume-section .resume-item .resume-date {
+  min-width: none;
+}
+
+a {
+  color: rgb(209, 10, 10);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+/* IDS */
+#sideNav .navbar-nav .nav-item .nav-link {
+  font-weight: 800;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
+}
+
+#sideNav .navbar-toggler:focus {
+  outline-color: rgb(156, 9, 9);
+}
+
+#email {
+  text-transform: uppercase;
+}
+
+
+/* CLASSES */
+.subheading {
+  margin-top: 10px;
+  font-size: 1.3rem;
+}
+
+.social-icons a {
+  display: inline-block;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: white;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 3.5rem;
+  margin-right: 1rem;
+  transition: transform .1s;
+}
+
+.social-icons a:last-child {
+  margin-right: 0;
+}
+
+.social-icons a:hover {
+  color: white;
+  background-color: #f02140;
+  transform: scale(1.1);
+}
+
+.text-primary {
+  color: #f02140 !important;
+}
+
+.overlay {
+  padding-top: 3rem !important;
+  background-color: #000222bd;
+}
+
+.bg-left-bar {
+  background-color: rgba(44, 0, 0, 0.774);
+  border-right: #ffffff 1px solid;
+}
+
+.game-image {
+  max-width: 500px;
+  border: 1px solid #001d3a;
+}
+
+.game-image:hover {
+  border: 1px solid #f02140;
+}
+
+.game-image > img{
+  width: 100%;
+}
+
+.image-skill-container{
+  height: 4rem;
+  width: 4rem;
+  border-bottom: #f02140 solid 1px;
+  padding-bottom: 0.4rem;
+  padding-right: 0.4rem;
+  padding-left: 0.4rem;
+  transition: transform .1s;
+}
+
+.image-skill-container:hover{
+  transform: scale(1.1);
+  border-bottom: #ffffff solid 2px;
+}
+
+.image-skill {
+  width: 100%;
+}
+
+
+/* @s */
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -78,127 +210,8 @@
 
 }
 
-body {
-  color: white;
-  background-color: #001d3a;
-  background: url('../assets/resume/images/general/bodybg.webp') fixed center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  text-transform: uppercase;
-}
-
-section.resume-section {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  max-width: 85rem;
-  margin: auto;
-}
-
-section.resume-section .resume-item .resume-date {
-  min-width: none;
-}
-
-.subheading {
-  margin-top: 10px;
-  font-size: 1.3rem;
-}
-
-.social-icons a {
-  display: inline-block;
-  height: 3.5rem;
-  width: 3.5rem;
-  background-color: #495057;
-  color: white;
-  border-radius: 100%;
-  text-align: center;
-  font-size: 1.5rem;
-  line-height: 3.5rem;
-  margin-right: 1rem;
-  transition: transform .1s;
-}
-
-.social-icons a:last-child {
-  margin-right: 0;
-}
-
-.social-icons a:hover {
-  color: white;
-  background-color: #f02140;
-  transform: scale(1.1);
-}
-
-.text-primary {
-  color: #f02140 !important;
-}
-
-a {
-  color: rgb(209, 10, 10);
-}
-
-
-a:hover {
-  text-decoration: none;
-}
-
-.overlay {
-  padding-top: 3rem !important;
-  background-color: #000222bd;
-}
-
-.bg-left-bar {
-  background-color: rgba(44, 0, 0, 0.774);
-  border-right: #ffffff 1px solid;
-}
-
-
-.image-skill-container{
-  height: 4rem;
-  width: 4rem;
-  border-bottom: #f02140 solid 1px;
-  padding-bottom: 0.4rem;
-  padding-right: 0.4rem;
-  padding-left: 0.4rem;
-  transition: transform .1s;
-}
-
-.image-skill-container:hover{
-  transform: scale(1.1);
-  border-bottom: #ffffff solid 2px;
-  /* too extravagant?
-    background: linear-gradient(360deg,#ffffff 0%, rgba(252,176,69,0) 45%, rgba(252,176,69,0) 100%);
-  */
-}
-
-.image-skill {
-  width: 100%;
-}
-
-#bg_mhw_xenojiva {
-  width: 100%;
-}
-
-#sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 800;
-  letter-spacing: 0.05rem;
-  text-transform: uppercase;
-}
-
-#sideNav .navbar-toggler:focus {
-  outline-color: rgb(156, 9, 9);
-}
-
-#email {
-  text-transform: uppercase;
-}
-
+/* SCROLL BAR*/
 /* width */
 ::-webkit-scrollbar {
   width: 10px;
