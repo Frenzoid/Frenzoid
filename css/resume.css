@@ -92,6 +92,7 @@ a:hover {
 }
 
 .bg-left-bar {
+  z-index: 1 !important;
   background-color: rgba(44, 0, 0, 0.774);
   border-right: #ffffff 1px solid;
 }
@@ -99,6 +100,11 @@ a:hover {
 .game-image {
   max-width: 500px;
   border: 1px solid #001d3a;
+}
+
+.game-image:hover{
+  border: 1px solid #f02140;
+  cursor: pointer;
 }
 
 .game-image > img{
