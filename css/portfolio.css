@@ -13,12 +13,14 @@ a:hover {
 }
 
 .vs-button {
-    color:rgb(255, 255, 255);
+    color:white;
     background: rgba(218, 165, 32, 0.1) ;
     border: rgba(218, 165, 32, 0.8) solid 1px ;
 }
 
 .vs-button:hover {
+    color:white;
+    background: rgba(218, 165, 32, 0.5) ;
     border: rgb(255, 183, 0) solid 1px;
 }
 
