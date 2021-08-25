@@ -9,7 +9,17 @@ a:hover {
 
 .bg-container {
     position: relative;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.vs-button {
+    color:rgb(255, 255, 255);
+    background: rgba(218, 165, 32, 0.1) ;
+    border: rgba(218, 165, 32, 0.8) solid 1px ;
+}
+
+.vs-button:hover {
+    border: rgb(255, 183, 0) solid 1px;
 }
 
 .footer {
@@ -45,9 +55,6 @@ a:hover {
     transform: scale(1.05);
 }
 
-.footer-item-center-hidden {
-
-}
 
 #background-video {
     object-fit: cover;
