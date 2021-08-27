@@ -53,6 +53,6 @@ This is my github repo, and you will find personal stuff and uni related project
 
 
 [uni]: https://www.ua.es/en/index.html
-[website]: https://frenzoid.github.io/Frenzoid/
-[portfolio]: https://frenzoid.github.io/Frenzoid/portfolio.html
+[website]: https://frenzoid.dev/
+[portfolio]: https://frenzoid.dev/portfolio.html
 [ob]: https://oldbox.cloud/
