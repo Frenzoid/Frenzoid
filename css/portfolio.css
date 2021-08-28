@@ -76,6 +76,11 @@ a:hover {
     border-bottom: rgb(255, 255, 255) solid 1px;
 }
 
+.linked-badge:hover{
+    background-color: white;
+    color: black;
+}
+
 
 /* SCROLL BAR*/
 /* width */
