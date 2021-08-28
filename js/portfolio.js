@@ -41,3 +41,6 @@ video.autoplay = true;
 window.addEventListener('DOMContentLoaded', () => {
     new SmartPhoto(".js-smartPhoto");
 });
+
+// custom stuff
+console.log("well, hello there, guess youre quite the explorer, aren't you?, well, if youre up to the challenge, try searching the secret behind www.stealthboats.com");
