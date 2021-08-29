@@ -3,6 +3,12 @@ body{
     background-color: rgb(0, 0, 0);
 }
 
+hr{
+    height: 1px;
+    background-color: #f02140;
+    border: none;
+}
+
 a:hover {
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -68,6 +74,14 @@ a:hover {
     transform: scale(1.05);
 }
 
+.project-section{
+    
+}
+
+.project-section > article {
+    width: 34rem;
+}
+
 .footer-item{
     border-bottom: rgb(255, 183, 0) solid 1px;
 }
@@ -105,7 +119,7 @@ a:hover {
 
 
 /* @s*/
-@media (max-width: 1000px) {
+@media (max-width: 999px) {
     .footer-item-center {
       display: none !important;
     }
@@ -113,6 +127,14 @@ a:hover {
     .footer-item-center-hidden {
       display: block !important;
     }
+}
+
+@media (max-width: 1199px) {
+
+    .project-section > article {
+        width: auto !important;
+    }
+
 }
 
 @keyframes fadeInAnimation {
