@@ -100,11 +100,13 @@ a:hover {
 .game-image {
   max-width: 500px;
   border: 1px solid #001d3a;
+  transition: transform .1s;
 }
 
 .game-image:hover{
-  border: 1px solid #f02140;
+  border: 1px solid #ffffff;
   cursor: pointer;
+  transform: scale(1.03);
 }
 
 .game-image > img{
@@ -123,6 +125,7 @@ a:hover {
 
 .image-skill-container:hover{
   transform: scale(1.1);
+  cursor: pointer;
   border-bottom: #ffffff solid 2px;
 }
 
