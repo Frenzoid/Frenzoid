@@ -33,16 +33,40 @@ a:hover {
     background-color: rgba(0, 0, 0, 0.9);
 }
 
-.vs-button {
+.button-st {
     color:white;
     background: rgba(218, 165, 32, 0.1) ;
     border: rgba(218, 165, 32, 0.8) solid 1px ;
 }
 
-.vs-button:hover {
+.button-st:hover {
     color:white;
-    background: rgba(218, 165, 32, 0.5) ;
+    background: rgba(218, 153, 32, 0.5) ;
     border: rgb(255, 183, 0) solid 1px;
+}
+
+.button-gh {
+    color:white;
+    background: rgba(218, 165, 32, 0.1) ;
+    border: rgba(218, 165, 32, 0.8) solid 1px ;
+}
+
+.button-gh:hover {
+    color:white;
+    background: rgba(64, 120, 192, 0.5) ;
+    border: rgb(0, 132, 255) solid 1px;
+}
+
+.button-art {
+    color:white;
+    background: rgba(218, 165, 32, 0.1) ;
+    border: rgba(218, 165, 32, 0.8) solid 1px ;
+}
+
+.button-art:hover {
+    color:white;
+    background: rgba(192, 64, 64, 0.5) ;
+    border: rgb(255, 0, 0) solid 1px;
 }
 
 .footer {
