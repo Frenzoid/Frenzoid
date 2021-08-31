@@ -30,7 +30,7 @@ a:hover {
 /* CLASSES */
 .bg-container {
     position: relative;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 .button-st {
@@ -71,7 +71,7 @@ a:hover {
 
 .footer {
     position: relative;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 .project-card {
