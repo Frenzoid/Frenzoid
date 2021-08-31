@@ -2,11 +2,12 @@
 
 <img src="./assets/generic/images/mhwendgamebuild.webp" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!" />
 
-Im a uni student, coursing a Bachelor's degree in Computer Science & Engineering.
+I'm a uni student, coursing a Bachelor's degree in Computer Science & Engineering.
 
-I enjoy spending my free time playing video games && also ( learning || testing ) different technologies :D. Im currently learning about blockchain, more specifically Ethereum's blockchain with Solidity.
+I enjoy spending my free time playing video games && also ( learning || testing ) different technologies :D. I'm currently learning about blockchain, more specifically Ethereum's blockchain with Solidity.
 
-This is my github repo, and you will find personal stuff and uni related projects.
+This is my GitHub repo, and you will find personal stuff and uni-related projects.
+
 - ![](https://komarev.com/ghpvc/?username=Frenzoid&color=684dac )
 - <a href="https://www.codewars.com/users/Frenzoid">
     <img src="https://www.codewars.com/users/Frenzoid/badges/micro" />
