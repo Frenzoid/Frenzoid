@@ -133,6 +133,32 @@ a:hover {
   width: 100%;
 }
 
+.button-st {
+  color:white;
+  color:white;
+  background: rgba(192, 64, 64, 0.5) ;
+  border: rgb(255, 0, 0) solid 1px;
+}
+
+.button-st:hover {
+  color:white;
+  background: rgba(218, 153, 32, 0.5) ;
+  border: rgb(255, 183, 0) solid 1px;
+}
+
+.button-gh {
+  color:white;
+  background: rgba(192, 64, 64, 0.5);
+  border: rgb(255, 0, 0) solid 1px;
+}
+
+.button-gh:hover {
+  color:white;
+  background: rgba(64, 120, 192, 0.5) ;
+  border: rgb(0, 132, 255) solid 1px;
+}
+
+
 
 /* @s */
 @media (min-width: 992px) {
