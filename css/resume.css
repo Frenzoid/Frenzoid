@@ -120,27 +120,32 @@ a:hover {
   padding-bottom: 0.4rem;
   padding-right: 0.4rem;
   padding-left: 0.4rem;
-  transition: transform .1s;
 }
 
 .image-skill-container:hover{
-  transform: scale(1.1);
   cursor: pointer;
   border-bottom: #ffffff solid 2px;
 }
 
 .image-skill {
   width: 100%;
+  transition: transform .9s;
+}
+
+.image-skill-container:hover > .image-skill {
+  transform: rotatey(360deg);
 }
 
 .button-st {
   color:white;
-  background: rgba(192, 64, 64, 0.5) ;
+  animation: st-bg-amination 3s infinite;
+  background: rgba(192, 64, 64, 0.5);
   border: rgb(255, 0, 0) solid 1px;
 }
 
 .button-st:hover {
   color:white;
+  animation: none;
   background: rgba(218, 153, 32, 0.5) ;
   border: rgb(255, 183, 0) solid 1px;
 }
@@ -240,6 +245,14 @@ a:hover {
 
 }
 
+@keyframes st-bg-amination {
+  0% {background-color: #f0214085;}
+  50% {
+    background: rgba(218, 153, 32, 0.5);
+    border: rgb(255, 183, 0) solid 1px;
+  }
+  100% {background-color: #f0214085;}
+}
 
 /* SCROLL BAR*/
 /* width */

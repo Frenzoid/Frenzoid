@@ -17,10 +17,7 @@ let bglist =
         "./assets/portfolio/video/hall.webm",
         "./assets/portfolio/video/nebulax.webm",
         "./assets/portfolio/video/blackholestation.webm",
-        "./assets/portfolio/video/paragon.webm",
         "./assets/portfolio/video/purpleforest.webm",
-        "./assets/portfolio/video/purplenight.webm",
-
     ];
 
 let counter = Number(window.localStorage.getItem("counter")) || 0;
