@@ -91,6 +91,19 @@ a:hover {
     border: rgb(255, 0, 0) solid 1px;
 }
 
+.button-ch {
+    color:white;
+    background: rgba(218, 165, 32, 0.1) ;
+    border: rgba(218, 165, 32, 0.8) solid 1px ;
+}
+
+.button-ch:hover {
+    color:white;
+    background: rgba(11, 65, 134, 0.774) ;
+    border: rgb(2, 82, 156) solid 1px;
+}
+
+
 .footer {
     position: relative;
     background-color: rgba(0, 0, 0, 0.8);
