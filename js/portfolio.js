@@ -35,9 +35,7 @@ video.playsinline = true;
 video.autoplay = true;
 
 // Photo showrell script.
-window.addEventListener('DOMContentLoaded', () => {
-    new SmartPhoto(".js-smartPhoto");
-});
+Fancybox.bind("[data-fancybox]", {});
 
 // custom stuff
 console.log("well, hello there, guess youre quite the explorer, aren't you?, well, if youre up to the challenge, try searching the secret behind stealthboats.com");

@@ -88,12 +88,12 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
         content="https://frenzoid.github.io/Frenzoid/assets/portfolio/images/general/portfio_image.png">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/smartphoto@1.1.0/css/smartphoto.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css" />
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="./css/portfolio.css?ver=41">
 
-    <!-- Preloads -->
+    <link rel="stylesheet" href="./css/portfolio.css?ver=41">
 
     <!-- Page -->
     <link rel="icon" type="image/gif" href="./assets/portfolio/images/general/portfolio_icon.webp">
@@ -122,20 +122,18 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
 
         <h2 class="text-white mt-4 text-center">Decetralized Applications</h2>
         <p class="lead text-white-50 text-center mb-3">DLT and Blockchain technologies in the Web!</p>
-        <!-- This is a project card -->
 
         <article class="card project-card text-warning mb-4">
             <div class="card-header text-center  text-center">
                 <h2>
-                    Custom Dapps and 🏗️ Scaffold-eth Challenges.
+                    🏗️ Scaffold-eth and Tiny one-page Dapps.
                 </h2>
             </div>
             <div class="card-body d-flex flex-row flex-wrap justify-content-center p-0">
                 <div class="project-image m-2 d-flex flex-column justify-content-center">
-                    <a href="./assets/portfolio/images/projects-screenshots/scaffold-challenge-2.png"
-                        class="js-smartPhoto"
-                        data-caption="RDT! A token exchangable with ETH! Check it out at: rdtvendor.surge.sh"
-                        data-id="block8v2" data-group="block">
+                    <a data-fancybox="blockchain"
+                        href="./assets/portfolio/images/projects-screenshots/scaffold-challenge-2.png"
+                        data-caption="RDT! A token exchangable with ETH! Check it out at: rdtvendor.surge.sh">
                         <img width="100%" src="./assets/portfolio/images/projects-screenshots/scaffold-challenge-2.png"
                             class="hovering" />
                     </a>
@@ -143,9 +141,8 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                         target="_blank">RDTVendor</a>
                 </div>
                 <div class="project-image m-2 d-flex flex-column justify-content-center">
-                    <a href="./assets/portfolio/images/projects-screenshots/block8v2.png" class="js-smartPhoto"
-                        data-caption="An unique NFT, theres only one supply of it, and only one user can have it, yet if that user holds it for more than 24hrs it will expire and rot, tranfer the token to keep it."
-                        data-id="block8v2" data-group="block">
+                    <a data-fancybox="blockchain" href="./assets/portfolio/images/projects-screenshots/block8v2.png"
+                        data-caption="An unique NFT, theres only one supply of it, and only one user can have it, yet if that user holds it for more than 24hrs it will expire and rot, tranfer the token to keep it.">
                         <img width="100%" src="./assets/portfolio/images/projects-screenshots/block8v2.png"
                             class="hovering" />
                     </a>
@@ -154,10 +151,9 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                         Repos</a>
                 </div>
                 <div class="project-image m-2 d-flex flex-column justify-content-center">
-                    <a href="./assets/portfolio/images/projects-screenshots/scaffold-challenge-1.png"
-                        class="js-smartPhoto"
-                        data-caption="DStake, a staking dapp where people stake their eth, when the timer is finshed or the treshold is met, the staket eth is sent to an external contract. Check it out as dstake.surge.sh"
-                        data-id="block8v2" data-group="block">
+                    <a data-fancybox="blockchain"
+                        href="./assets/portfolio/images/projects-screenshots/scaffold-challenge-1.png"
+                        data-caption="DStake, a staking dapp where people stake their eth, when the timer is finshed or the treshold is met, the staket eth is sent to an external contract. Check it out as dstake.surge.sh">
                         <img width="100%" src="./assets/portfolio/images/projects-screenshots/scaffold-challenge-1.webp"
                             class="hovering" />
                     </a>
@@ -165,22 +161,22 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                         target="_blank">&nbsp;&nbsp;&nbsp;DStake&nbsp;&nbsp;&nbsp;</a>
                 </div>
                 <div hidden class="d-none">
-                    <a href="./assets/portfolio/images/projects-screenshots/block4.png" class="js-smartPhoto"
+                    <a href="./assets/portfolio/images/projects-screenshots/block4.png"
                         data-caption="A webpage where the content of the page is auctioned, the highest bidder gets to choose what the webpage displays."
-                        data-id="block4" data-group="block">
-                        <img width="100%" src="./assets/portfolio/images/projects-screenshots/block4.png"
-                            class="hovering" />
+                        data-fancybox="blockchain">
+                        <img width="100%" src="./assets/portfolio/images/projects-screenshots/block4.png" />
                     </a>
-                    <a href="./assets/portfolio/images/projects-screenshots/block1.png" class="js-smartPhoto"
-                        data-caption="Simple public dropbox webpage made with IPFS." data-id="block1"
-                        data-group="block">
+                    <a href="./assets/portfolio/images/projects-screenshots/block1.png"
+                        data-caption="Simple public dropbox webpage made with IPFS." data-fancybox="blockchain">
+                        <img width="100%" src="./assets/portfolio/images/projects-screenshots/block1.png" />
                     </a>
-                    <a href="./assets/portfolio/images/projects-screenshots/block3.png" class="js-smartPhoto"
-                        data-caption="A tiny bank with interests and loans." data-id="block3.png" data-group="block">
+                    <a href="./assets/portfolio/images/projects-screenshots/block3.png"
+                        data-caption="A tiny bank with interests and loans." data-fancybox="blockchain">
+                        <img width="100%" src="./assets/portfolio/images/projects-screenshots/block3.png" />
                     </a>
-                    <a href="./assets/portfolio/images/projects-screenshots/block2.png" class="js-smartPhoto"
-                        data-caption="Instagram ripoff with the choice to tip the authors." data-id="block2"
-                        data-group="block">
+                    <a href="./assets/portfolio/images/projects-screenshots/block2.png"
+                        data-caption="Instagram ripoff with the choice to tip the authors." data-fancybox="blockchain">
+                        <img width="100%" src="./assets/portfolio/images/projects-screenshots/block2.png" />
                     </a>
                 </div>
             </div>
@@ -227,7 +223,7 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
         </article>
 
         <h2 class="text-white mt-4 mb-3 text-center">Web Apps & Hybrid Apps</h2>
-        <p class="lead text-white-50 text-center mb-3">Simple and Complex websites and WebApps!
+        <p class="lead text-white-50 text-center mb-3">Static and Dynamic Websites and WebApps!
         </p>
 
         <div class="project-section d-flex flex-row flex-wrap justify-content-between">
@@ -240,22 +236,22 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                 </div>
                 <div class="card-body d-flex flex-row flex-wrap justify-content-center p-0">
                     <div class="project-image m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/oldbox1.png" class="js-smartPhoto"
-                            data-caption="Home page" data-id="oldbox1" data-group="oldbox">
+                        <a href="./assets/portfolio/images/projects-screenshots/oldbox1.png" data-caption="Home page"
+                            data-fancybox="oldbox">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/oldbox1.webp"
                                 class="hovering" />
                         </a>
                     </div>
                     <div class="project-image m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/oldbox2.png" class="js-smartPhoto"
-                            data-caption="About us page" data-id="oldbox2" data-group="oldbox">
+                        <a href="./assets/portfolio/images/projects-screenshots/oldbox2.png"
+                            data-caption="About us page" data-fancybox="oldbox">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/oldbox2.webp"
                                 class="hovering" />
                         </a>
                     </div>
                     <div class="project-image m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/oldbox3.png" class="js-smartPhoto"
-                            data-caption="Donations page" data-id="oldbox3" data-group="oldbox">
+                        <a href="./assets/portfolio/images/projects-screenshots/oldbox3.png"
+                            data-caption="Donations page" data-fancybox="oldbox">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/oldbox3.webp"
                                 class="hovering" />
                         </a>
@@ -263,8 +259,7 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                 </div>
                 <div class="card-footer">
                     <p>
-                        Websites and applications that connect with backends, databases,
-                        remote APIs, etc.
+                        My gaming community website! :)
                     </p>
                     <div class="d-flex flex-row justify-content-center mb-3">
                         <a type="button" class="btn button-st" href="https://oldbox.cloud" target="_blank">Visit
@@ -306,32 +301,29 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                 </div>
                 <div class="card-body d-flex flex-row flex-wrap justify-content-center p-0">
                     <div class="project-image m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/changed1.png" class="js-smartPhoto"
-                            data-caption="" data-id="changed1" data-group="changed">
+                        <a href="./assets/portfolio/images/projects-screenshots/changed1.png" data-fancybox="changed">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/changed1.webp"
                                 class="hovering" />
                         </a>
                     </div>
                     <div class="project-image m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/changed2.png" class="js-smartPhoto"
-                            data-caption="" data-id="changed2" data-group="changed">
+                        <a href="./assets/portfolio/images/projects-screenshots/changed2.png" data-fancybox="changed">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/changed2.webp"
                                 class="hovering" />
                         </a>
                     </div>
                     <div class="project-image m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/changed3.png" class="js-smartPhoto"
-                            data-caption="" data-id="changed3" data-group="changed">
-                            <img width="100%" src="./assets/portfolio/images/projects-screenshots/changed3.webp"
-                                class="hovering" />
+                        <a href="./assets/portfolio/images/projects-screenshots/changed3.png" data-fancybox="changed">
+                            <img class="hovering" width="100%"
+                                src="./assets/portfolio/images/projects-screenshots/changed3.webp" />
                         </a>
                     </div>
                     <div hidden class="d-none">
-                        <a href="./assets/portfolio/images/projects-screenshots/changed4.png" class="js-smartPhoto"
-                            data-caption="" data-id="changed4" data-group="changed">
+                        <a href="./assets/portfolio/images/projects-screenshots/changed4.png" data-fancybox="changed">
+                            <img src="./assets/portfolio/images/projects-screenshots/changed4.png" />
                         </a>
-                        <a href="./assets/portfolio/images/projects-screenshots/changed5.png" class="js-smartPhoto"
-                            data-caption="t" data-id="changed5" data-group="changed">
+                        <a href="./assets/portfolio/images/projects-screenshots/changed5.png" data-fancybox="changed">
+                            <img src="./assets/portfolio/images/projects-screenshots/changed5.png" />
                         </a>
                     </div>
                 </div>
@@ -378,48 +370,54 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                 </div>
                 <div class="card-body d-flex flex-row flex-wrap justify-content-center p-0">
                     <div class="project-image m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/creview1.png" class="js-smartPhoto"
-                            data-caption="Listing Reviews" data-id="creview1" data-group="creview">
+                        <a href="./assets/portfolio/images/projects-screenshots/creview1.png"
+                            data-caption="Listing Reviews" data-fancybox="creview">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/creview1.webp"
                                 class="hovering" />
                         </a>
                     </div>
                     <div class="project-image m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/creview2.png" class="js-smartPhoto"
-                            data-caption="Editing comments from a review" data-id="creview2" data-group="creview">
+                        <a href="./assets/portfolio/images/projects-screenshots/creview2.png"
+                            data-caption="Editing comments from a review" data-fancybox="creview">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/creview2.webp"
                                 class="hovering" />
                         </a>
                     </div>
                     <div class="project-image m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/creview3.png" class="js-smartPhoto"
-                            data-caption="List subjects of a career" data-id="creview3" data-group="creview">
+                        <a href="./assets/portfolio/images/projects-screenshots/creview3.png"
+                            data-caption="List subjects of a career" data-fancybox="creview">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/creview3.webp"
                                 class="hovering" />
                         </a>
                     </div>
                     <div hidden class="d-none">
-                        <a href="./assets/portfolio/images/projects-screenshots/creview4.png" class="js-smartPhoto"
-                            data-caption="Profile page" data-id="creview4" data-group="creview">
+                        <a href="./assets/portfolio/images/projects-screenshots/creview4.png"
+                            data-caption="Profile page" data-fancybox="creview">
+                            <img src="./assets/portfolio/images/projects-screenshots/creview4.png" />
                         </a>
-                        <a href="./assets/portfolio/images/projects-screenshots/creview5.png" class="js-smartPhoto"
-                            data-caption="Reviews of a subject" data-id="creview5" data-group="creview">
+                        <a href="./assets/portfolio/images/projects-screenshots/creview5.png"
+                            data-caption="Reviews of a subject" data-fancybox="creview">
+                            <img src="./assets/portfolio/images/projects-screenshots/creview5.png" />
                         </a>
-                        <a href="./assets/portfolio/images/projects-screenshots/creview6.png" class="js-smartPhoto"
-                            data-caption="Login page" data-id="creview6" data-group="creview">
+                        <a href="./assets/portfolio/images/projects-screenshots/creview6.png" data-caption="Login page"
+                            data-fancybox="creview">
+                            <img src="./assets/portfolio/images/projects-screenshots/creview6.png" />
                         </a>
-                        <a href="./assets/portfolio/images/projects-screenshots/creview7.png" class="js-smartPhoto"
-                            data-caption="Editing a profile" data-id="creview7" data-group="creview">
+                        <a href="./assets/portfolio/images/projects-screenshots/creview7.png"
+                            data-caption="Editing a profile" data-fancybox="creview">
+                            <img src="./assets/portfolio/images/projects-screenshots/creview7.png" />
                         </a>
-                        <a href="./assets/portfolio/images/projects-screenshots/creview8.png" class="js-smartPhoto"
-                            data-caption="Showing a review and commenting on it" data-id="creview8"
-                            data-group="creview">
+                        <a href="./assets/portfolio/images/projects-screenshots/creview8.png"
+                            data-caption="Showing a review and commenting on it" data-fancybox="creview">
+                            <img src="./assets/portfolio/images/projects-screenshots/creview8.png" />
                         </a>
-                        <a href="./assets/portfolio/images/projects-screenshots/creview9.png" class="js-smartPhoto"
-                            data-caption="Users list and search" data-id="creview9" data-group="creview">
+                        <a href="./assets/portfolio/images/projects-screenshots/creview9.png"
+                            data-caption="Users list and search" data-fancybox="creview">
+                            <img src="./assets/portfolio/images/projects-screenshots/creview9.png" />
                         </a>
-                        <a href="./assets/portfolio/images/projects-screenshots/creview10.png" class="js-smartPhoto"
-                            data-caption="Reviewing a subject" data-id="creview10" data-group="creview">
+                        <a href="./assets/portfolio/images/projects-screenshots/creview10.png"
+                            data-caption="Reviewing a subject" data-fancybox="creview">
+                            <img src="./assets/portfolio/images/projects-screenshots/creview10.png" />
                         </a>
                     </div>
                 </div>
@@ -457,32 +455,34 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                 </div>
                 <div class="card-body d-flex flex-row flex-nowrap justify-content-center p-0 ml-4 mr-4">
                     <div class="project-image-vertical m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/gannet1.jpg" class="js-smartPhoto"
-                            data-caption="Login page" data-id="gannet1" data-group="gannet">
+                        <a href="./assets/portfolio/images/projects-screenshots/gannet1.jpg" data-caption="Login page"
+                            data-fancybox="gannet">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/gannet1.webp"
                                 class="hovering" />
                         </a>
                     </div>
                     <div class="project-image-vertical m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/gannet2.jpg" class="js-smartPhoto"
-                            data-caption="Home page" data-id="gannet2" data-group="gannet">
+                        <a href="./assets/portfolio/images/projects-screenshots/gannet2.jpg" data-caption="Home page"
+                            data-fancybox="gannet">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/gannet2.webp"
                                 class="hovering" />
                         </a>
                     </div>
                     <div class="project-image-vertical m-2">
-                        <a href="./assets/portfolio/images/projects-screenshots/gannet3.jpg" class="js-smartPhoto"
-                            data-caption="Shop page" data-id="gannet3" data-group="gannet">
+                        <a href="./assets/portfolio/images/projects-screenshots/gannet3.jpg" data-caption="Shop page"
+                            data-fancybox="gannet">
                             <img width="100%" src="./assets/portfolio/images/projects-screenshots/gannet3.webp"
                                 class="hovering" />
                         </a>
                     </div>
                     <div hidden class="d-none">
-                        <a href="./assets/portfolio/images/projects-screenshots/gannet5.jpg" class="js-smartPhoto"
-                            data-caption="Orders pagee" hidden data-id="gannet5" data-group="gannet">
+                        <a href="./assets/portfolio/images/projects-screenshots/gannet5.jpg" data-caption="Orders pagee"
+                            data-fancybox="gannet">
+                            <img src="./assets/portfolio/images/projects-screenshots/gannet5.jpg" />
                         </a>
-                        <a href="./assets/portfolio/images/projects-screenshots/gannet4.jpg" class="js-smartPhoto"
-                            data-caption="Order details page" hidden data-id="gannet4" data-group="gannet">
+                        <a href="./assets/portfolio/images/projects-screenshots/gannet4.jpg"
+                            data-caption="Order details page" data-fancybox="gannet">
+                            <img src="./assets/portfolio/images/projects-screenshots/gannet4.jpg" />
                         </a>
                     </div>
                 </div>
@@ -526,34 +526,7 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
             </article>
 
         </div>
-        <!--div class="card project-card text-warning mb-3">
-            <div class="card-header text-center ">
-                <h2>
-                    <a href="https://github.com/Frenzoid/Frenzoid/blob/master/portfolio.html">This webpage :)</a>
-                </h2>
-            </div>
-            <div class="card-body d-flex flex-row flex-wrap justify-content-center">
-                <div class="project-image m-2">
-                    <a href="./assets/portfolio.png" class="js-smartPhoto" data-caption="This webpage"
-                        data-id="portfolio" data-group="portfolio">
-                        <img width="100%" src="./assets/portfolio/images/projects-screenshots/portfolio.png" class="hovering" />
-                    </a>
-                </div>
 
-            </div>
-            <div class=" card-footer">
-                <p>
-                    A webpage to show some of my projects.
-                </p>
-                <div>
-                    <span class="badge badge-dark">JS</span>
-                    <span class="badge badge-dark">HTML 5</span>
-                    <span class="badge badge-dark">CSS 3</span>
-                    <span class="badge badge-dark">Bootstrap 4</span>
-                    <span class="badge badge-dark">SmartPhotoJS</span>
-                </div>
-            </div>
-        </div-->
     </main>
 
     <footer class="footer pt-3 pb-4 mb-0 bg-footer">
@@ -599,7 +572,6 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
         </div>
     </footer>
 
-    <script src="./js/portfolio.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>
@@ -609,7 +581,9 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/smartphoto@1.1.0/js/smartphoto.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+    <script src="./js/portfolio.js"></script>
+
 
 </body>
 

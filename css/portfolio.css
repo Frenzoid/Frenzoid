@@ -133,9 +133,6 @@ a:hover {
     transform: scale(1.05);
 }
 
-.project-section{
-}
-
 .project-section > article {
     width: 49%;
 }
@@ -151,10 +148,6 @@ a:hover {
 .linked-badge:hover{
     background-color: white;
     color: black;
-}
-
-.icon{
-    fill: #FFFFFF;
 }
 
 
