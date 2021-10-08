@@ -37,10 +37,6 @@ video.autoplay = true;
 let music = document.getElementById("background-music");
 music.setAttribute("src", "./assets/portfolio/sound/RiveRSolo.mp3");
 music.setAttribute("type", "audio/mp3");
-music.loop = true;
-music.autoplay = true;
-music.volume = 0.2;
-music.play();
 
 let plb = document.getElementById("play-button")
 let pab = document.getElementById("pause-button")
@@ -56,6 +52,11 @@ plb.addEventListener("click", () => {
     pab.hidden = false;
     music.play();
 })
+
+music.onloadeddata = () => {
+    plb.hidden = false;
+    music.volume = 0.2
+}
 
 
 
