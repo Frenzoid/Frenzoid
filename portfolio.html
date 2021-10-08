@@ -93,7 +93,7 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="./css/portfolio.css?ver=41">
+    <link rel="stylesheet" href="./css/portfolio.css?ver=42">
 
     <!-- Page -->
     <link rel="icon" type="image/gif" href="./assets/portfolio/images/general/portfolio_icon.webp">
@@ -119,23 +119,6 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
             <p class="text-warning">If you want to check everything, you should go to my <a
                     href="https://github.com/Frenzoid" target="_blank">GitHub</a> :)
             </p>
-        </div>
-
-        <div class="d-flex flex-row justify-content-center">
-            <button type="button" class="btn button-art px-5" id="pause-button" hidden>
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                    class="bi bi-pause-fill" viewBox="0 0 16 16">
-                    <path
-                        d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z" />
-                </svg>
-            </button>
-            <button type="button" class="btn button-gh px-5" id="play-button" hidden>
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                    class="bi bi-play-fill" viewBox="0 0 16 16">
-                    <path
-                        d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
-                </svg>
-            </button>
         </div>
 
         <h2 class="text-white mt-4 text-center">Decetralized Applications</h2>
@@ -542,13 +525,40 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                     </div>
                 </div>
             </article>
-
         </div>
-
     </main>
 
-    <footer class="footer pt-3 pb-4 mb-0 bg-footer">
+    <div id="transition1" class="container my-1"></div>
+    <div id="transition2" class="container my-1"></div>
+    <div id="transition3" class="container my-1"></div>
+
+    <div id="bgfooter"></div>
+
+    <footer class="footer pt-3 pb-2 mb-0 bg-footer text-center">
         <div class="container">
+            <div class="d-flex flex-row justify-content-center">
+                <button class="btn button-ch py-2 mx-1" id="ch-bgv">Change background</button>
+
+                <button type="button" class="btn button-art px-5 mx-1" id="pause-button" hidden>
+                    🎵
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                        class="bi bi-pause-fill" viewBox="0 0 16 16">
+                        <path
+                            d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z" />
+                    </svg>
+                    🎼
+                </button>
+                <button type="button" class="btn button-gh px-5 mx-1" id="play-button" hidden>
+                    🎵
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                        class="bi bi-play-fill" viewBox="0 0 16 16">
+                        <path
+                            d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
+                    </svg>
+                    🎼
+                </button>
+            </div>
+
             <div class="footer-item-center-hidden d-none text-center">
                 <a href="https://www.linkedin.com/in/elvimihai" class="footer-item p-2 m-2">
                     <img

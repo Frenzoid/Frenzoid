@@ -2,6 +2,7 @@
 
 // When video finishes downloading, display it fading.
 let video = document.getElementById("background-video");
+let bgcbutton = document.getElementById("ch-bgv");
 
 video.onloadeddata = () => {
     video.style.display = "block";
@@ -33,7 +34,18 @@ video.muted = true;
 video.playsinline = true;
 video.autoplay = true;
 
-// backround music.
+bgcbutton.addEventListener("click", () => {
+    video.pause();
+
+    window.localStorage.setItem("counter", counter >= bglist.length - 1 ? 0 : counter + 1);
+    counter = Number(window.localStorage.getItem("counter"));
+
+    videosouce.setAttribute("src", bglist[counter]);
+    video.load();
+    video.play();
+})
+
+// background music.
 let music = document.getElementById("background-music");
 music.setAttribute("src", "./assets/portfolio/sound/RiveRSolo.mp3");
 music.setAttribute("type", "audio/mp3");
@@ -55,6 +67,7 @@ plb.addEventListener("click", () => {
 
 music.onloadeddata = () => {
     plb.hidden = false;
+    music.loop = true;
     music.volume = 0.2
 }
 

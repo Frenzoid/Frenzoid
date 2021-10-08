@@ -44,6 +44,32 @@ a:hover {
     display: none;
 }
 
+#bgfooter {
+    background-color: transparent;
+    height: 75vh;
+}
+
+#transition1 {
+    background-color: rgba(0, 0, 0, 0.8);
+    position: relative;
+    height: 40px;
+    max-width: 50%;
+}
+
+#transition2 {
+    background-color: rgba(0, 0, 0, 0.644);
+    position: relative;
+    height: 30px;
+    max-width: 30%;
+}
+
+#transition3 {
+    background-color: rgba(0, 0, 0, 0.397);
+    position: relative;
+    height: 20px;
+    max-width: 20%;
+}
+
 
 /* CLASSES */
 .tf-rgg{
