@@ -103,10 +103,11 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
 
 <body>
     <video id="background-video"></video>
+    <audio id="background-music"></audio>
 
     <main class="container pb-3 bg-container">
 
-        <div class="text-center text-warning mb-5 pt-4">
+        <div class="text-center text-warning mb-4 pt-4">
             <h1>Welcome to my portfolio.</h1>
             <p>
                 I am <a href="https://www.linkedin.com/in/elvimihai/" target="_blank">Frenzoid</a>, and here you
@@ -118,6 +119,23 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
             <p class="text-warning">If you want to check everything, you should go to my <a
                     href="https://github.com/Frenzoid" target="_blank">GitHub</a> :)
             </p>
+        </div>
+
+        <div class="d-flex flex-row justify-content-center">
+            <button type="button" class="btn button-art px-5" id="pause-button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                    class="bi bi-pause-fill" viewBox="0 0 16 16">
+                    <path
+                        d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z" />
+                </svg>
+            </button>
+            <button type="button" class="btn button-gh px-5" id="play-button" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                    class="bi bi-play-fill" viewBox="0 0 16 16">
+                    <path
+                        d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
+                </svg>
+            </button>
         </div>
 
         <h2 class="text-white mt-4 text-center">Decetralized Applications</h2>
