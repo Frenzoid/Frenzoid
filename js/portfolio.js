@@ -35,6 +35,9 @@ video.playsinline = true;
 video.autoplay = true;
 
 bgcbutton.addEventListener("click", () => {
+    video.style.display = "none";
+    video.style.animation = "none";
+
     video.pause();
 
     window.localStorage.setItem("counter", counter >= bglist.length - 1 ? 0 : counter + 1);
