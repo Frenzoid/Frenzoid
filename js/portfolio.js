@@ -18,6 +18,11 @@ let bglist =
         "./assets/portfolio/video/nebulax.webm",
         "./assets/portfolio/video/blackholestation.webm",
         "./assets/portfolio/video/purpleforest.webm",
+        "./assets/portfolio/video/huntshowdown.webm",
+        "./assets/portfolio/video/galaxy.webm",
+        "./assets/portfolio/video/rpg.webm",
+        "./assets/portfolio/video/fiber.webm",
+        "./assets/portfolio/video/duel.webm",
     ];
 
 let counter = Number(window.localStorage.getItem("counter")) || 0;
@@ -36,7 +41,6 @@ video.autoplay = true;
 
 bgcbutton.addEventListener("click", () => {
     video.style.display = "none";
-    video.style.animation = "none";
 
     video.pause();
 
