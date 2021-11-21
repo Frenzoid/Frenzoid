@@ -1,4 +1,4 @@
-## Hello there! 👋 <img width="30px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
+## Hello there! <img width="50px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 
 <img src="./assets/generic/images/mhwendgamebuild.webp" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!" />
 
