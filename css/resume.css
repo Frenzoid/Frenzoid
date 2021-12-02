@@ -149,7 +149,7 @@ a:hover {
 
 .button-st {
   color:white;
-  animation: st-bg-amination 3s infinite;
+  animation: st-bg-animation 3s infinite;
   background: rgba(192, 64, 64, 0.5);
   border: rgb(255, 0, 0) solid 1px;
 }
@@ -173,7 +173,10 @@ a:hover {
   border: rgb(0, 132, 255) solid 1px;
 }
 
-
+.glow {
+  animation: glow-golden-animation 3s ease-in-out infinite;
+  z-index: 2;
+}
 
 /* @s */
 @media (min-width: 992px) {
@@ -256,13 +259,29 @@ a:hover {
 
 }
 
-@keyframes st-bg-amination {
-  0% {background-color: #f0214085;}
+@keyframes glow-golden-animation {
+  0% {
+    box-shadow: 0px 0px 10px 5px rgb(255, 183, 0);
+  }
+  25% {
+    box-shadow: none;
+  }
+  100% {
+    box-shadow: 0px 0px 10px 5px rgb(255, 183, 0);
+  }
+}
+
+@keyframes st-bg-animation {
+  0% {
+    background-color: #f0214085;
+  }
   50% {
     background: rgba(218, 153, 32, 0.5);
     border: rgb(255, 183, 0) solid 1px;
   }
-  100% {background-color: #f0214085;}
+  100% {
+    background-color: #f0214085;
+  }
 }
 
 @font-face {
