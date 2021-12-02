@@ -1,8 +1,9 @@
-## Hello there! 👋
+## Hello there! <img width="50px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 
 <img src="./assets/generic/images/mhwendgamebuild.webp" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!" />
 
 I'm a uni student, coursing a Bachelor's degree in Computer Science & Engineering.
+
 
 I enjoy spending my free time playing video games && also ( learning || testing ) different technologies :D. I'm currently learning about blockchain, more specifically Ethereum's blockchain with Solidity.
 
