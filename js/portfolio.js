@@ -54,7 +54,7 @@ bgcbutton.addEventListener("click", () => {
 
 // background music.
 let music = document.getElementById("background-music");
-music.setAttribute("src", "./assets/portfolio/sound/RiveRSolo.mp3");
+music.setAttribute("src", "./assets/portfolio/sound/027906.mp3");
 music.setAttribute("type", "audio/mp3");
 
 let plb = document.getElementById("play-button")
