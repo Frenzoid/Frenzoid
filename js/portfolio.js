@@ -16,13 +16,11 @@ let bglist =
     [
         "./assets/portfolio/video/hall.webm",
         "./assets/portfolio/video/nebulax.webm",
+        "./assets/portfolio/video/mars.webm",
+        "./assets/portfolio/video/rainy.webm",
         "./assets/portfolio/video/blackholestation.webm",
-        "./assets/portfolio/video/purpleforest.webm",
-        "./assets/portfolio/video/huntshowdown.webm",
-        "./assets/portfolio/video/galaxy.webm",
-        "./assets/portfolio/video/rpg.webm",
         "./assets/portfolio/video/fiber.webm",
-        "./assets/portfolio/video/duel.webm",
+        "./assets/portfolio/video/purpleforest.webm",
     ];
 
 let counter = Number(window.localStorage.getItem("counter")) || 0;
@@ -54,7 +52,7 @@ bgcbutton.addEventListener("click", () => {
 
 // background music.
 let music = document.getElementById("background-music");
-music.setAttribute("src", "./assets/portfolio/sound/027906.mp3");
+music.setAttribute("src", "./assets/portfolio/sound/bgm.mp3");
 music.setAttribute("type", "audio/mp3");
 
 let plb = document.getElementById("play-button")
@@ -82,6 +80,18 @@ music.onloadeddata = () => {
 
 // Photo showrell script.
 Fancybox.bind("[data-fancybox]", {});
+
+// live type
+var options = {
+    strings: ["Portfolio!^500 😊", "nordlich^300@^500vmi313646", "0x1001000", "Sirius ^300Lagrange", "[𝘿𝘼𝙏𝘼 ^300𝙀𝙓𝙋𝙐𝙉𝙂𝙀𝘿]", "^400🔴^400🟡^850🟢"],
+    typeSpeed: 50,
+    backSpeed: 25,
+    backDelay: 3000,
+    cursorChar: '▏',
+    loop: true,
+};
+
+var typed = new Typed('.typed', options);
 
 // custom stuff
 console.log("well, hello there, guess youre quite the explorer, aren't you?, well, if youre up to the challenge, try searching the secret behind stealthboats.com");
