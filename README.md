@@ -15,7 +15,7 @@ This is my GitHub repo, and here you will find personal and uni-related projects
   </a>
 - 📖 Currently studying at [UA][uni]!
 - 📜 Here is [my resume][website] and [portfolio][portfolio].
-- 🎮 Creator of the [OldBox Community][ob]!
+- 🎮 Creator of [OldBox Community][ob]!
 - 📚 My favorite author is Dmitri Glujovski.
 - 🎼 <i><a href="https://www.youtube.com/watch?v=Ko0Wetm2_So">
         When the sun shines out,
