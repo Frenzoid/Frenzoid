@@ -46,7 +46,7 @@ a:hover {
 
 #bgfooter {
     background-color: transparent;
-    height: 70vh;
+    height: 60vh;
 }
 
 #transition1 {
@@ -128,7 +128,6 @@ a:hover {
     background: rgba(11, 65, 134, 0.774) ;
     border: rgb(2, 82, 156) solid 1px;
 }
-
 
 .footer {
     position: relative;

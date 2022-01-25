@@ -62,13 +62,13 @@ pab.addEventListener("click", () => {
     plb.hidden = false;
     pab.hidden = true;
     music.pause();
-})
+});
 
 plb.addEventListener("click", () => {
     plb.hidden = true;
     pab.hidden = false;
     music.play();
-})
+});
 
 music.onloadeddata = () => {
     plb.hidden = false;
