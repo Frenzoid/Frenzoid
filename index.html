@@ -86,15 +86,20 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
         content="https://frenzoid.github.io/Frenzoid/assets/resume/images/general/resume_image.png">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css" />
-    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="stylesheet" rel="preload" as="style"
+        href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css" />
+    <link rel="stylesheet" rel="preload" as="style" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="stylesheet" rel="preload" as="style"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i">
+    <link rel="stylesheet" rel="preload" as="style"
+        href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700">
+    <link rel="stylesheet" rel="preload" as="style"
+        href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i">
 
-    <link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
-    <link rel="stylesheet" href="css/resume.css?ver=43">
+    <link rel="stylesheet" rel="preload" as="style" href="vendor/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" rel="preload" as="style" href="css/resume.css?ver=43">
 
     <!-- Page -->
     <link rel="icon" type="image/gif" href="./assets/resume/images/general/resume_icon.webp">
@@ -180,8 +185,9 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                     </p>
                     <p data-aos="fade-down" data-aos-delay="400" data-aos-once="true" class="lead mb-5">
                         I enjoy watching movies, I'm a big fan of action, sci-fi, and fantasy films/series. SG-1, LORT,
-                        and Dr.Who is one of my favorites. I also love playing video games like RPGs, or classics like
-                        TF2or Monster Hunter. And about foods.. pizza, burritos, sushi, and ramen, have a special place
+                        and Dr.Who are some of my favorites. I also love playing video games like RPGs, or classics like
+                        TF2or Monster Hunter. And about foods.. pizza, burritos, sushi, and noodles, have a special
+                        place
                         on my stomach :p
                     </p>
 
@@ -411,16 +417,16 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
 
                     <div class="d-flex flex-row flex-wrap justify-content-center">
                         <a data-aos="fade-up" data-aos-delay="100" data-aos-once="true"
-                            href="./assets/resume/images/pictures/books.jpg" class="game-image m-3"
+                            href="./assets/resume/images/pictures/books.webp" class="game-image m-3"
                             data-caption="A fancy display of my favorite books and novels." data-fancybox="sg">
-                            <img src="./assets/resume/images/pictures/books.jpg"
+                            <img src="./assets/resume/images/pictures/books.webp"
                                 alt="A fancy display of my favorite books and novels." />
                         </a>
                         <a data-aos="fade-up" data-aos-delay="200" data-aos-once="true"
-                            href="./assets/resume/images/pictures/hdd.jpg" class="game-image m-3"
+                            href="./assets/resume/images/pictures/hdd.webp" class="game-image m-3"
                             data-caption="A broken Hard Drive that i dismantled and made into a nice looking frame."
                             data-fancybox="sg">
-                            <img src="./assets/resume/images/pictures/hdd.jpg"
+                            <img src="./assets/resume/images/pictures/hdd.webp"
                                 alt="A broken Hard Drive that i dismantled and made into a nice looking frame." />
                         </a>
                         <p data-aos="zoom-in" data-aos-delay="200" data-aos-once="true" class="mt-2 text-center">I also
@@ -701,12 +707,17 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
     </div>
 
 
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="https://unpkg.com/@popperjs/core@2"></script>
     <script src="https://unpkg.com/tippy.js@6"></script>
 
     <script src="js/resume.min.js"></script>
