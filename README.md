@@ -1,6 +1,6 @@
 ## Hello there! <img width="50px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 
-<img src="./assets/generic/images/mhwendgamebuild.webp" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!" />
+<img src="https://i.pinimg.com/originals/e0/d6/2f/e0d62fd1bd7c80defd22db401017b38b.gif" align="right" alt="Muscle Cat Wins Again!" title="Muscle Cat Wins Again!" />
 
 I'm a uni student, coursing a university degree in Computer Science & Engineering.
 
