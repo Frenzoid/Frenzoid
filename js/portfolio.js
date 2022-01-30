@@ -52,6 +52,8 @@ bgcbutton.addEventListener("click", () => {
 
 // background music.
 let music = document.getElementById("background-music");
+let musicFile = document.getElementById("background-music-musicfile");
+
 music.setAttribute("src", "./assets/portfolio/sound/bgm.mp3");
 music.setAttribute("type", "audio/mp3");
 
@@ -74,6 +76,14 @@ music.onloadeddata = () => {
     plb.hidden = false;
     music.loop = true;
     music.volume = 0.2
+}
+
+musicFile.onchange = (e) => {
+    plb.hidden = false;
+    pab.hidden = true;
+    music.pause();
+    music.setAttribute("src", URL.createObjectURL(e.target.files[0]));
+    music.load();
 }
 
 // Photo showrell script.

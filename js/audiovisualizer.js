@@ -16,7 +16,6 @@
 
 window.AudioContext = window.AudioContext || window.webkitAudioContext || window.mozAudioContext;
 
-
 let audio = document.getElementById('background-music');
 
 let start = function () {
@@ -48,6 +47,7 @@ let start = function () {
     gradient.addColorStop(1, '#0f0');
     gradient.addColorStop(0.5, '#ff0');
     gradient.addColorStop(0, '#f00');
+
     // loop
     function renderFrame() {
         let array = new Uint8Array(analyser.frequencyBinCount);
@@ -73,9 +73,12 @@ let start = function () {
         requestAnimationFrame(renderFrame);
     }
     renderFrame();
-    // audio.play();
 };
 
 audio.onplay = function () {
-    start();
+    try {
+        start();
+    } catch (e) {
+        // TODO Relink analyzer.
+    }
 }

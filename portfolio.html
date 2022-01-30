@@ -95,7 +95,7 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
         href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <link rel="stylesheet" rel="preload" as="style" href="./css/portfolio.css?ver=44">
+    <link rel="stylesheet" rel="preload" as="style" href="./css/portfolio.css?ver=45">
 
     <!-- Page -->
     <link rel="icon" type="image/gif" href="./assets/portfolio/images/general/portfolio_icon.webp">
@@ -740,31 +740,37 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
         <div id="transition3" class="container my-1"></div>
         <div id="bgfooter"> </div>
 
-        <div class="text-center ">
+        <div class="text-center">
             <canvas width="800" id="canvas"></canvas>
 
-            <div class="d-flex flex-row justify-content-center py-4 bg-container">
-                <button class="btn button-ch py-2 mx-1" id="ch-bgv">Change background</button>
+            <div class="bg-container py-3">
+                <div class="d-flex flex-row justify-content-center py-3">
+                    <button class="btn button-ch py-2 mx-1" id="ch-bgv">Change background</button>
 
-                <button type="button" class="btn button-art mx-1 px-5" id="pause-button" hidden>
-                    🎵
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                        class="bi bi-pause-fill" viewBox="0 0 16 16">
-                        <path
-                            d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z" />
-                    </svg>
-                    🎼
-                </button>
+                    <button type="button" class="btn button-art mx-1 px-5" id="pause-button" hidden>
+                        🎵
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-pause-fill" viewBox="0 0 16 16">
+                            <path
+                                d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z" />
+                        </svg>
+                        🎼
+                    </button>
 
-                <button type="button" class="btn button-gh mx-1 px-5" id="play-button" hidden>
-                    🎵
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                        class="bi bi-play-fill" viewBox="0 0 16 16">
-                        <path
-                            d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
-                    </svg>
-                    🎼
-                </button>
+                    <button type="button" class="btn button-gh mx-1 px-5" id="play-button" hidden>
+                        🎵
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-play-fill" viewBox="0 0 16 16">
+                            <path
+                                d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
+                        </svg>
+                        🎼
+                    </button>
+                </div>
+
+                <input type="file" id="background-music-musicfile" class="d-none" accept="audio/*" />
+                <input type="button" class="btn button-gh" value="Choose Music..."
+                    onclick="document.getElementById('background-music-musicfile').click();" />
             </div>
         </div>
     </main>
