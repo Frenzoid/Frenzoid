@@ -76,8 +76,6 @@ music.onloadeddata = () => {
     music.volume = 0.2
 }
 
-
-
 // Photo showrell script.
 Fancybox.bind("[data-fancybox]", {});
 
