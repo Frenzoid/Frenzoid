@@ -59,6 +59,7 @@ music.setAttribute("type", "audio/mp3");
 
 let plb = document.getElementById("play-button")
 let pab = document.getElementById("pause-button")
+let nwp = document.getElementById("nowplaying");
 
 pab.addEventListener("click", () => {
     plb.hidden = false;
@@ -83,6 +84,7 @@ musicFile.onchange = (e) => {
     pab.hidden = true;
     music.pause();
     music.setAttribute("src", URL.createObjectURL(e.target.files[0]));
+    nwp.firstElementChild.innerHTML = e.target.files[0].name;
     music.load();
 }
 

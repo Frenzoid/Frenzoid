@@ -741,10 +741,18 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
         <div id="bgfooter"> </div>
 
         <div class="text-center">
-            <canvas width="900" id="canvas"></canvas>
+            <canvas width="800" id="canvas"></canvas>
+
 
             <div class="bg-container py-3">
-                <div class="d-flex flex-row justify-content-center py-3">
+                <div class="text-warning pb-3" id="nowplaying">Selected Song:
+                    <code>
+                    Black Mesa: Hazard Course OST -
+                    Broadcast Intrusion
+                   </code>
+                </div>
+
+                <div class="d-flex flex-row justify-content-center pb-2">
                     <button class="btn button-ch py-2 mx-1" id="ch-bgv">Change background</button>
 
                     <button type="button" class="btn button-art mx-1 px-5" id="pause-button" hidden>
@@ -769,8 +777,9 @@ drwxr-xr-x  13 root root  4096 Jul 20  2016 var
                 </div>
 
                 <input type="file" id="background-music-musicfile" class="d-none" accept="audio/*" />
-                <input type="button" class="btn button-gh" value="Choose Music..."
+                <input type="button" class="btn button-gh" value="Upload & Play Music"
                     onclick="document.getElementById('background-music-musicfile').click();" />
+
             </div>
         </div>
     </main>

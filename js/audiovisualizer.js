@@ -40,7 +40,7 @@ let start = function () {
         gap = 2, //gap between meters
         capHeight = 2,
         capStyle = '#fff',
-        meterNum = Math.floor(1000 / (10 + 2)), //count of the meters
+        meterNum = Math.floor(800 / (10 + 2)), //count of the meters
         capYPositionArray = []; ////store the vertical position of hte caps for the preivous frame
     ctx = canvas.getContext('2d'),
 
