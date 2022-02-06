@@ -40,9 +40,10 @@ let start = function () {
         gap = 2, //gap between meters
         capHeight = 2,
         capStyle = '#fff',
-        meterNum = 800 / (10 + 2), //count of the meters
+        meterNum = Math.floor(1000 / (10 + 2)), //count of the meters
         capYPositionArray = []; ////store the vertical position of hte caps for the preivous frame
     ctx = canvas.getContext('2d'),
+
         gradient = ctx.createLinearGradient(0, 0, 0, 300);
     gradient.addColorStop(1, '#0f0');
     gradient.addColorStop(0.5, '#ff0');
