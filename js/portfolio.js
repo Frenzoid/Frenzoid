@@ -93,7 +93,7 @@ Fancybox.bind("[data-fancybox]", {});
 
 // live type
 var options = {
-    strings: ["my portfolio!^500 😊", "nordlicht^300@^500vmi105", "0x1001000", "Sirius ^300Lagrange"],
+    strings: ["my portfolio!^500 😊", "nordlicht^300@^500vmi10", "0x1001000", "Sirius ^300Lagrange"],
     typeSpeed: 50,
     backSpeed: 25,
     backDelay: 3000,
