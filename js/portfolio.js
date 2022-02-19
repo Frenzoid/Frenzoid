@@ -14,13 +14,11 @@ video.onloadeddata = () => {
 // the script is associated to the background video switch on refresh.
 let bglist =
     [
+        "./assets/portfolio/video/xen.webm",
         "./assets/portfolio/video/hall.webm",
         "./assets/portfolio/video/nebulax.webm",
-        "./assets/portfolio/video/mars.webm",
-        "./assets/portfolio/video/rainy.webm",
         "./assets/portfolio/video/blackholestation.webm",
         "./assets/portfolio/video/fiber.webm",
-        "./assets/portfolio/video/purpleforest.webm",
     ];
 
 let counter = Number(window.localStorage.getItem("counter")) || 0;
@@ -93,7 +91,7 @@ Fancybox.bind("[data-fancybox]", {});
 
 // live type
 var options = {
-    strings: ["my portfolio!^500 😊", "nordlicht^300@^500vmi10", "0x1001000", "Sirius ^300Lagrange"],
+    strings: ["My portfolio!^500 😊", "nordlicht^300@^500vmi10", "0x1001000", "X^300e^300n", "Sirius ^300Lagrange"],
     typeSpeed: 50,
     backSpeed: 25,
     backDelay: 3000,
