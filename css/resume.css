@@ -57,6 +57,9 @@ a:hover {
   text-transform: uppercase;
 }
 
+#last-paragraph {
+  margin-bottom: 0 !important;
+}
 
 /* CLASSES */
 .tf-rgg{
@@ -78,18 +81,13 @@ a:hover {
   text-align: center;
   font-size: 1.5rem;
   line-height: 3.5rem;
-  margin-right: 1rem;
-  transition: transform .1s;
-}
-
-.social-icons a:last-child {
-  margin-right: 0;
+  margin-right: 0.5rem;
+  margin-top: 1rem;
 }
 
 .social-icons a:hover {
   color: white;
   background-color: #f02140;
-  transform: scale(1.1);
 }
 
 .text-primary {
