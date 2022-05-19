@@ -3,12 +3,10 @@
 
 I'm a uni student, coursing a university degree in Computer Science & Engineering.
 
-<img align="right" src="https://i.pinimg.com/originals/e0/d6/2f/e0d62fd1bd7c80defd22db401017b38b.gif"  alt="bg-readme-picture" />
-
-
-I enjoy spending my free time playing video games && also learning || testing different technologies :D. I'm currently learning about blockchain, more specifically Ethereum's blockchain with Solidity.
-
 This is my GitHub repo, and here you will find personal and uni-related projects.
+
+I enjoy spending my free time playing video games && also learning || trying different technologies :D. I'm currently learning about blockchain, more specifically Ethereum's blockchain, developing dapps with Solidity.
+
 
 - ![](https://komarev.com/ghpvc/?username=Frenzoid&color=684dac )
 - <a href="https://www.codewars.com/users/Frenzoid">
