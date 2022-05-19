@@ -2,7 +2,7 @@
 
 
 I'm a uni student, coursing a university degree in Computer Science & Engineering.
-<img src="https://i.pinimg.com/originals/e0/d6/2f/e0d62fd1bd7c80defd22db401017b38b.gif" align="right" alt="bg-readme-picture" />
+<img src="https://i.pinimg.com/originals/e0/d6/2f/e0d62fd1bd7c80defd22db401017b38b.gif" align="right"  width="200px" alt="bg-readme-picture" />
 
 
 I enjoy spending my free time playing video games && also learning || testing different technologies :D. I'm currently learning about blockchain, more specifically Ethereum's blockchain with Solidity.
