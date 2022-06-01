@@ -1,4 +1,4 @@
-## Hello there! <img width="10px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
+## Hello there! <img width="10%" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 
 
 I'm a uni student, coursing a university degree in Computer Science & Engineering.
