@@ -37,7 +37,7 @@ I enjoy spending my free time playing video games && also learning || trying dif
     <img src="https://img.shields.io/badge/-MrFrenzoid-1b2838?style=flat-square&logo=Steam&logoColor=white" />
 </a>
 
-### And if you came from AlliedModders, you must be here for these!
+### And if you came from <a href="https://forums.alliedmods.net/" target="_blank"> AlliedModders</a>, you must be here for these!
 <div>
     <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
         <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=react"/>
