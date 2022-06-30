@@ -109,7 +109,10 @@ $(document).ready(function(){
         autoplay:true,
         autoplayTimeout:2500,
         autoplayHoverPause:true,
+        autoplaySpeed:1000,
         autoHeight: true,
+        rewind: true,
+
     });
 });
 
