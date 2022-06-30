@@ -101,5 +101,17 @@ var options = {
 
 var typed = new Typed('.typed', options);
 
+// Carousel.
+
+$(document).ready(function(){
+    $('.owl-carousel').owlCarousel({
+        items: 3,
+        autoplay:true,
+        autoplayTimeout:2500,
+        autoplayHoverPause:true,
+        autoHeight: true,
+    });
+});
+
 // custom stuff
 console.log("well, hello there, guess youre quite the explorer, aren't you?, well, if youre up to the challenge, try searching the secret behind stealthboats.com");
