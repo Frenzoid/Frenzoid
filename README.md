@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=1000&lines=Hello+there!;Welcome+to+my+profile+%3AD)](https://git.io/typing-svg)
+## Hello there! <img width="4%" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 
 
 I'm a uni student, coursing a university degree in Computer Science & Engineering.
