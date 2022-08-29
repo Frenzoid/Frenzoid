@@ -1,5 +1,6 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+there!;Welcome+to+my+profile+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+there!;Welcome+to+my+profile+%3AD)](https://git.io/typing-svg)
 
+<hr>
 
 I'm a uni student, coursing a university degree in Computer Science & Engineering.
 <img src="https://i.pinimg.com/originals/e0/d6/2f/e0d62fd1bd7c80defd22db401017b38b.gif" align="right" alt="bg-readme-picture" />
