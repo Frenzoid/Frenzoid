@@ -89,7 +89,8 @@ musicFile.onchange = (e) => {
 // Photo showrell script.
 Fancybox.bind("[data-fancybox]", {});
 
-// live type
+// live typed text.
+/** 
 var options = {
     strings: ["My portfolio!^500 😊", "nordlicht^300@^500vmi10", "X^300e^300n", "Sirius ^300Lagrange", "0x7030f"],
     typeSpeed: 50,
@@ -100,16 +101,17 @@ var options = {
 };
 
 var typed = new Typed('.typed', options);
+*/
 
 // Carousel.
 
-$(document).ready(function(){
+$(document).ready(function () {
     $('.owl-carousel').owlCarousel({
         items: 3,
-        autoplay:true,
-        autoplayTimeout:2500,
-        autoplayHoverPause:true,
-        autoplaySpeed:1000,
+        autoplay: true,
+        autoplayTimeout: 2500,
+        autoplayHoverPause: true,
+        autoplaySpeed: 1000,
         autoHeight: true,
         rewind: true,
 
