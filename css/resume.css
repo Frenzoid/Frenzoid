@@ -107,6 +107,38 @@ ul {
   border-right: #ffffff 1px solid;
 }
 
+.resume-item {
+  margin-bottom: 5rem;
+}
+
+.resume-date {
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 1rem;
+  color: #f02140;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.glow-red {
+  text-shadow: 0 0 10px #f02140, 0 0 20px #f02140, 0 0 30px #f02140, 0 0 40px #f02140, 0 0 50px #f02140, 0 0 60px #f02140, 0 0 70px #f02140;
+}
+
+.glow-blue {
+  text-shadow: 0 0 10px #008cff, 0 0 20px #008cff, 0 0 30px #008cff, 0 0 40px #008cff, 0 0 50px #008cff, 0 0 60px #008cff, 0 0 70px #008cff;
+}
+
+.title-section {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
 .game-image {
   max-width: 500px;
   border: 1px solid #001d3a;
@@ -171,11 +203,6 @@ ul {
   color: white;
   background: rgba(64, 120, 192, 0.5);
   border: rgb(0, 132, 255) solid 1px;
-}
-
-.glow {
-  animation: glow-golden-animation 3s ease-in-out infinite;
-  z-index: 2;
 }
 
 
