@@ -15,7 +15,6 @@ I enjoy spending my free time playing video games && also learning || trying dif
   </a>
 - 📖 Currently studying at [UA][uni]!
 - 📜 Here is [my resume][website] and [portfolio][portfolio].
-- 🎮 Creator of [OldBox Community][ob]!
 - 📚 My favorite author is Dmitri Glujovski.
 - 🎼 <i><a href="https://www.youtube.com/watch?v=Ko0Wetm2_So">
         When the sun shines out,
@@ -57,4 +56,3 @@ I enjoy spending my free time playing video games && also learning || trying dif
 [uni]: https://www.ua.es/en/index.html
 [website]: https://frenzoid.dev/
 [portfolio]: https://frenzoid.dev/portfolio.html
-[ob]: https://oldbox.cloud/
