@@ -36,23 +36,6 @@ I enjoy spending my free time playing video games && also learning || trying dif
     <img src="https://img.shields.io/badge/-MrFrenzoid-1b2838?style=flat-square&logo=Steam&logoColor=white" />
 </a>
 
-### And if you came from <a href="https://forums.alliedmods.net/"> AlliedModders</a>, you must be here for these!
-<div>
-    <a href="https://github.com/Frenzoid/TF2_SetClassMaxSpeed">
-        <img width="49%" alt="TF2_SetClassMaxSpee" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_SetClassMaxSpeed&hide_border=true&theme=react"/>
-    </a>
-    <a href="https://github.com/Frenzoid/TF2_FF2DamageTracker">
-        <img width="49%" alt="TF2_FF2DamageTrackers" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_FF2DamageTracker&hide_border=true&theme=react" />
-    </a>
-    <a href="https://github.com/Frenzoid/TF2_InvisibleWeaponsFix">
-        <img width="49%" alt="TF2_InvisibleWeaponsFix" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=TF2_InvisibleWeaponsFix&hide_border=true&theme=react" />
-    </a>
-    <a href="https://github.com/Frenzoid/SM_SourceRoundTimer">
-        <img width="49%" alt="SM_SourceRoundTimer" src="https://github-readme-stats.vercel.app/api/pin?username=Frenzoid&repo=SM_SourceRoundTimer&hide_border=true&theme=algolia"/>
-    </a>
-</div>
-
-
 [uni]: https://www.ua.es/en/index.html
 [website]: https://frenzoid.dev/
 [portfolio]: https://frenzoid.dev/portfolio.html
