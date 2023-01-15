@@ -23,7 +23,6 @@ I enjoy spending my free time playing video games && also learning || trying dif
         In the morning path.
         </a></i>
 
-
 ### Lets get in touch!
 
 <a href="mailto:frenzoid@pm.me">
