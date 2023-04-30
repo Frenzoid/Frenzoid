@@ -6,7 +6,7 @@ I'm a software developer, coursing a university degree in Computer Science & Eng
 
 This is my GitHub repo, and here you will find personal and uni-related projects.
 
-I enjoy spending my free time playing video games && also learning || trying different technologies :D.
+I enjoy spending my free time playing video games && also learning || trying out different technologies :D.
 
 
 - ![](https://komarev.com/ghpvc/?username=Frenzoid&color=684dac )
