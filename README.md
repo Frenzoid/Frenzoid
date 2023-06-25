@@ -1,7 +1,7 @@
 ## Hello there! <img width="3%" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 
 
-I'm a software developer, coursing a university degree in Computer Science & Engineering.
+Hello folks, Im Frenzoid, a software developer, nerd, and devops enthusiast :)
 <img src="https://i.pinimg.com/originals/e0/d6/2f/e0d62fd1bd7c80defd22db401017b38b.gif" align="right" alt="bg-readme-picture" />
 
 This is my GitHub repo, and here you will find personal and uni-related projects.
