@@ -13,7 +13,7 @@ I enjoy spending my free time playing video games && also learning || trying dif
 - <a href="https://www.codewars.com/users/Frenzoid">
     <img src="https://www.codewars.com/users/Frenzoid/badges/micro" />
   </a>
-- 📖 Currently studying at [UA][uni]!
+- 📖 Currently studying at [USI][uni]!
 - 📜 Here is [my resume][website] and [portfolio][portfolio].
 - 📚 My favorite author is Dmitri Glujovski.
 - 🗣️ I speak: 🇪🇸 Spanish (Native), 🇷🇴 Romanian (Native), 🇬🇧 English (C1) and 🇩🇪 German (A1).
@@ -36,6 +36,6 @@ I enjoy spending my free time playing video games && also learning || trying dif
     <img src="https://img.shields.io/badge/-MrFrenzoid-1b2838?style=flat-square&logo=Steam&logoColor=white" />
 </a>
 
-[uni]: https://www.ua.es/en/index.html
+[uni]: https://www.usi.ch/it
 [website]: https://frenzoid.dev/
 [portfolio]: https://frenzoid.dev/portfolio.html
