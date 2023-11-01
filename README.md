@@ -16,7 +16,7 @@ I enjoy spending my free time playing video games && also learning || trying dif
 - 📖 Currently studying at [USI][uni]!
 - 📜 Here is [my resume][website] and [portfolio][portfolio].
 - 📚 My favorite author is Dmitri Glujovski.
-- 🗣️ I speak: 🇪🇸 Spanish (Native), 🇷🇴 Romanian (Native), 🇬🇧 English (C1) and 🇩🇪 German (A1).
+- 🗣️ I speak: 🇪🇸 Spanish (Native), 🇷🇴 Romanian (Native), 🇬🇧 English (C1), 🇩🇪 German and Italian 🇮🇹 (A1).
 - 🎼 <i><a href="https://www.youtube.com/watch?v=Ko0Wetm2_So">
         When the sun shines out,
         Stars dance 'round in the grass,
