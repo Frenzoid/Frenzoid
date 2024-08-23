@@ -40,8 +40,7 @@ I enjoy spending my free time playing video games && also learning || trying dif
 [website]: https://frenzoid.dev/
 [portfolio]: https://frenzoid.dev/portfolio.html
 
-```stl
-solid stlmesh
+```stlsolid stlmesh
   facet normal 0.0 0.0 70.0
     outer loop
       vertex 0.0 0.0 0.0
